@@ -1,0 +1,2669 @@
+click here to select file
+远程获取来的log压缩包要解压，且每次只能解密单个文件
+
+file name:20201217-log.log
+size:195508
+
+2020-12-17 12:35:37.343==MainActivity:onCreate
+2020-12-17 12:35:37.376==MainActivity:IHP-A_SV106_201215,versionCode=509
+2020-12-17 12:35:37.429==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:35:37.446==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 12:35:37.460==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:35:37.578==AutoScanBlec.d.a.a@f26c9ed:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 12:35:37.593==AutoScanBlec.d.a.a@f26c9ed:start
+2020-12-17 12:35:37.602==AutoScanBlec.d.a.a@f26c9ed:INTERVAL=20000,DURATION=1600
+2020-12-17 12:35:37.635==BleController:Connection history=null
+2020-12-17 12:35:37.655==BleController:connectToSavedBeacon from BleService onCreate
+2020-12-17 12:35:37.666==BleController:bluetoothAdapter.isEnabled() == false
+2020-12-17 12:35:38.146==ACTION_BATTERY_CHANGED:isCharge=0,lev=85,voltage=3878,temp=540
+2020-12-17 12:35:41.257==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 12:35:41.265==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 12:35:41.891==ACTION_BATTERY_CHANGED:isCharge=0,lev=85,voltage=3945,temp=550
+2020-12-17 12:35:41.947==ACTION_BATTERY_CHANGED:isCharge=0,lev=85,voltage=3933,temp=550
+2020-12-17 12:35:42.041==ACTION_BATTERY_CHANGED:isCharge=0,lev=85,voltage=3942,temp=550
+2020-12-17 12:35:44.958==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 12:35:44.956==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 12:35:45.616==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:35:45.623==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 12:35:45.632==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:36:00.212==BleService:Intent.ACTION_BOOT_COMPLETED
+2020-12-17 12:36:00.783==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:36:00.793==BleService:SCREEN_ON
+2020-12-17 12:36:00.847==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:36:00.849==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:36:00.914==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:36:00.930==BleService:SCREEN_OFF=137ms
+2020-12-17 12:36:01.070==ACTION_BATTERY_CHANGED:isCharge=0,lev=85,voltage=4000,temp=550
+2020-12-17 12:38:01.582==ACTION_BATTERY_CHANGED:isCharge=0,lev=85,voltage=4016,temp=530
+2020-12-17 12:38:01.615==ACTION_BATTERY_CHANGED:isCharge=0,lev=85,voltage=4014,temp=530
+2020-12-17 12:38:01.660==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=4009,temp=530
+2020-12-17 12:50:00.654==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:00.661==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 12:50:00.670==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:50:00.704==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:50:00.730==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:00.734==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:00.746==BleService:SCREEN_ON
+2020-12-17 12:50:02.765==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 12:50:02.779==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:50:03.053==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 12:50:03.054==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 12:50:03.780==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 12:50:03.788==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:03.804==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:03.807==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 12:50:06.183==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 12:50:06.280==wifiSettings:Volla_2G:6
+2020-12-17 12:50:06.291==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:06.303==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:06.908==wifiSettings:InHandPlus Guest:6
+2020-12-17 12:50:06.951==wifiSettings:codebrick:6
+2020-12-17 12:50:06.964==wifiSettings:inner:6
+2020-12-17 12:50:06.988==wifiSettings:S6_2F_TOWN:6
+2020-12-17 12:50:07.013==wifiSettings:S6_2F_Guest:6
+2020-12-17 12:50:07.039==wifiSettings:dalicious:6
+2020-12-17 12:50:07.064==wifiSettings:iptime:6
+2020-12-17 12:50:08.192==wifiSettings:inner:6
+2020-12-17 12:50:08.250==wifiSettings:codebrick:6
+2020-12-17 12:50:08.668==wifiSettings:InHandPlus Guest:6
+2020-12-17 12:50:08.702==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:08.726==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:08.751==wifiSettings:Volla_2G:6
+2020-12-17 12:50:09.294==wifiSettings:InHandPlus Guest:6
+2020-12-17 12:50:09.369==wifiSettings:codebrick:6
+2020-12-17 12:50:09.648==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 12:50:09.653==wifiSettings:Volla_2G:6
+2020-12-17 12:50:09.712==wifiSettings:Volla_2G:6
+2020-12-17 12:50:09.718==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:09.725==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:09.731==wifiSettings:InHandPlus Guest:6
+2020-12-17 12:50:09.737==wifiSettings:Tripolygon:6
+2020-12-17 12:50:17.180==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 12:50:17.185==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 12:50:17.209==wifiSettings:InHandPlus Guest:2
+2020-12-17 12:50:17.222==wifiSettings:Volla_2G:6
+2020-12-17 12:50:17.228==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:17.236==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:17.242==wifiSettings:Tripolygon:6
+2020-12-17 12:50:17.272==wifiSettings:enableNetwork=InHandPlus Guest
+2020-12-17 12:50:17.290==wifiSettings:InHandPlus Guest:2
+2020-12-17 12:50:17.296==wifiSettings:Volla_2G:6
+2020-12-17 12:50:17.303==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:17.308==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:17.313==wifiSettings:Tripolygon:6
+2020-12-17 12:50:17.325==wifiSettings:InHandPlus Guest:2
+2020-12-17 12:50:17.324==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 12:50:17.331==wifiSettings:Volla_2G:6
+2020-12-17 12:50:17.339==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:17.345==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:17.351==wifiSettings:Tripolygon:6
+2020-12-17 12:50:17.368==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:17.370==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 12:50:17.384==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 12:50:17.400==wifiSettings:InHandPlus Guest:2
+2020-12-17 12:50:17.405==wifiSettings:Volla_2G:6
+2020-12-17 12:50:17.410==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:17.415==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:17.420==wifiSettings:Tripolygon:6
+2020-12-17 12:50:17.442==wifiSettings:InHandPlus Guest:2
+2020-12-17 12:50:17.447==wifiSettings:Volla_2G:6
+2020-12-17 12:50:17.452==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:17.457==wifiSettings:inhandPlus2.4:6
+2020-12-17 12:50:17.462==wifiSettings:Tripolygon:6
+2020-12-17 12:50:18.125==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":DISCONNECTED
+2020-12-17 12:50:18.123==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:18.133==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 12:50:18.135==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:18.135==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 12:50:18.144==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":DISCONNECTED
+2020-12-17 12:50:18.145==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:DISCONNECTED,supplicantError=123
+2020-12-17 12:50:18.141==wifiSettings:SUPPLICANT_STATE_CHANGED=:SCANNING,supplicantError=123
+2020-12-17 12:50:18.140==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:18.151==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 12:50:18.211==wifiSettings:InHandPlus Guest:4
+2020-12-17 12:50:18.218==wifiSettings:Volla_2G:6
+2020-12-17 12:50:18.224==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:18.236==wifiSettings:InHandPlus Guest:4
+2020-12-17 12:50:18.241==wifiSettings:Volla_2G:6
+2020-12-17 12:50:18.246==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:21.382==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 12:50:21.383==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:21.385==wifiSettings:SUPPLICANT_STATE_CHANGED=:ASSOCIATING,supplicantError=123
+2020-12-17 12:50:21.595==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 12:50:21.665==wifiSettings:InHandPlus Guest:2
+2020-12-17 12:50:21.677==wifiSettings:Volla_2G:6
+2020-12-17 12:50:21.683==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:21.694==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 12:50:21.696==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:21.697==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 12:50:21.698==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:21.704==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 12:50:21.771==wifiSettings:InHandPlus Guest:2
+2020-12-17 12:50:21.776==wifiSettings:Volla_2G:6
+2020-12-17 12:50:21.780==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:22.752==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:GROUP_HANDSHAKE,supplicantError=123
+2020-12-17 12:50:22.760==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 12:50:22.760==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:22.766==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 12:50:22.766==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:22.784==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 12:50:22.784==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:22.799==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 12:50:22.800==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:22.803==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 12:50:22.815==wifiSettings:InHandPlus Guest:4
+2020-12-17 12:50:22.821==wifiSettings:Volla_2G:6
+2020-12-17 12:50:22.827==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:22.865==wifiSettings:InHandPlus Guest:4
+2020-12-17 12:50:22.870==wifiSettings:Volla_2G:6
+2020-12-17 12:50:22.877==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:23.590==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:23.590==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 12:50:23.627==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:23.637==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:23.638==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 12:50:23.655==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 12:50:23.652==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 12:50:23.708==wifiSettings:InHandPlus Guest:1
+2020-12-17 12:50:23.715==wifiSettings:Volla_2G:6
+2020-12-17 12:50:23.720==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:23.734==wifiSettings:InHandPlus Guest:1
+2020-12-17 12:50:23.746==wifiSettings:Volla_2G:6
+2020-12-17 12:50:23.753==wifiSettings:Volla_Guest:6
+2020-12-17 12:50:23.765==ihp.Upload:Battery Temp = 530,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 12:50:23.770==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 12:50:23.777==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 12:50:23.782==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:50:28.829==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 12:50:31.206==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:50:31.248==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 12:50:31.253==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 12:50:31.260==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:50:36.324==guid:gsm.serial=20IHPA00202A
+2020-12-17 12:50:40.868==WIFI_STATE_CHANGED:isConnected,rssi=78,level=4
+2020-12-17 12:50:41.823==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=3825,temp=490
+2020-12-17 12:50:41.834==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=3825,temp=490
+2020-12-17 12:50:41.864==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=3830,temp=480
+2020-12-17 12:50:44.582==WIFI_STATE_CHANGED:isConnected,rssi=74,level=4
+2020-12-17 12:50:44.846==BeaconSetting:uploaddelay=0,old=15
+2020-12-17 12:50:44.870==AutoScanBlec.d.a.a@f26c9ed:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 12:50:45.834==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:50:45.884==WIFI_STATE_CHANGED:isConnected,rssi=74,level=4
+2020-12-17 12:50:45.890==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 12:50:45.897==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:51:03.288==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:51:03.302==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 12:51:03.309==ihp.Upload:Battery Temp = 480,from=android.intent.action.SCREEN_OFF
+2020-12-17 12:51:03.314==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 12:51:03.319==BleService:SCREEN_OFF=62573ms
+2020-12-17 12:51:03.324==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:51:11.104==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=3990,temp=490
+2020-12-17 12:51:11.226==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=3979,temp=490
+2020-12-17 12:51:12.124==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 12:51:12.138==ihp.Upload:Battery Temp = 490,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 12:51:12.148==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 12:51:12.165==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 12:56:13.087==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 12:56:13.103==ihp.Upload:Battery Temp = 490,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 12:56:13.110==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 12:56:13.124==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:01:14.082==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:01:14.097==ihp.Upload:Battery Temp = 490,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:01:14.107==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:01:14.125==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:06:15.102==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:06:15.114==ihp.Upload:Battery Temp = 490,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:06:15.120==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:06:15.132==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:11:16.083==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:11:16.105==ihp.Upload:Battery Temp = 490,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:11:16.115==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:11:16.126==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:16:17.084==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:16:17.103==ihp.Upload:Battery Temp = 490,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:16:17.111==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:16:17.123==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:16:44.171==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=4021,temp=470
+2020-12-17 13:16:44.196==ACTION_BATTERY_CHANGED:isCharge=0,lev=84,voltage=3987,temp=470
+2020-12-17 13:16:44.244==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4017,temp=470
+2020-12-17 13:21:18.086==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:21:18.110==ihp.Upload:Battery Temp = 470,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:21:18.117==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:21:18.131==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:26:19.078==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:26:19.092==ihp.Upload:Battery Temp = 470,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:26:19.101==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:26:19.114==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:31:20.093==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:31:20.107==ihp.Upload:Battery Temp = 470,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:31:20.115==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:31:20.127==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:35:02.321==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4018,temp=460
+2020-12-17 13:35:02.369==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4008,temp=460
+2020-12-17 13:35:02.439==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4019,temp=460
+2020-12-17 13:36:21.130==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:36:21.138==ihp.Upload:Battery Temp = 460,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:36:21.144==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:36:21.156==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:38:31.909==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4009,temp=460
+2020-12-17 13:41:23.085==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:41:23.104==ihp.Upload:Battery Temp = 460,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:41:23.113==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:41:23.137==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:43:01.459==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4016,temp=450
+2020-12-17 13:43:01.498==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4010,temp=450
+2020-12-17 13:43:01.534==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4009,temp=450
+2020-12-17 13:46:24.096==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:46:24.110==ihp.Upload:Battery Temp = 450,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:46:24.118==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:46:24.130==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:49:41.085==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4016,temp=450
+2020-12-17 13:49:41.118==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=3994,temp=450
+2020-12-17 13:49:41.157==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4015,temp=450
+2020-12-17 13:51:25.084==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:51:25.094==ihp.Upload:Battery Temp = 450,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:51:25.101==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:51:25.111==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 13:56:26.090==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 13:56:26.104==ihp.Upload:Battery Temp = 450,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:56:26.113==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 13:56:26.126==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:00:10.710==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4015,temp=440
+2020-12-17 14:00:10.739==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=3991,temp=440
+2020-12-17 14:00:10.779==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=3997,temp=440
+2020-12-17 14:00:10.824==ACTION_BATTERY_CHANGED:isCharge=0,lev=83,voltage=4003,temp=440
+2020-12-17 14:01:27.095==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:01:27.107==ihp.Upload:Battery Temp = 440,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:01:27.114==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:01:27.127==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:06:27.122==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:06:27.142==ihp.Upload:Battery Temp = 440,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:06:27.153==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:06:27.166==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:11:27.165==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:11:27.180==ihp.Upload:Battery Temp = 440,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:11:27.191==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:11:27.207==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:16:28.082==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:16:28.096==ihp.Upload:Battery Temp = 440,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:16:28.104==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:16:28.118==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:19:29.379==ACTION_BATTERY_CHANGED:isCharge=0,lev=82,voltage=4001,temp=440
+2020-12-17 14:21:29.088==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:21:29.108==ihp.Upload:Battery Temp = 440,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:21:29.115==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:21:29.133==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:25:50.346==ACTION_BATTERY_CHANGED:isCharge=0,lev=82,voltage=4013,temp=440
+2020-12-17 14:26:30.082==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:26:30.097==ihp.Upload:Battery Temp = 440,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:26:30.105==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:26:30.120==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:28:37.012==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:28:37.020==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:28:37.033==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:28:37.045==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:28:37.080==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 14:28:37.082==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 14:28:37.082==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 14:28:37.100==BleService:SCREEN_ON
+2020-12-17 14:28:39.109==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:28:39.135==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:28:40.296==guid:gsm.serial=20IHPA00202A
+2020-12-17 14:28:46.267==BeaconSetting:uploaddelay=0,old=0
+2020-12-17 14:28:46.293==AutoScanBlec.d.a.a@f26c9ed:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 14:28:49.521==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 14:28:49.526==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:28:49.531==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:28:52.490==BleActivity:onClick bluetoothAdapter.enable()
+2020-12-17 14:28:53.418==BleController:bluetoothState=TURNING_ON
+2020-12-17 14:28:53.428==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:28:53.596==BleController:bluetoothState=ON
+2020-12-17 14:28:53.601==BleController:connectToSavedBeacon from STATE_ON
+2020-12-17 14:28:53.611==BleController:bondes.size() == 0
+2020-12-17 14:28:53.616==BleController:Connection history=null
+2020-12-17 14:28:53.633==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:28:54.241==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:54.253==BleActivity:onScanResult uuid=D6:1F:91:08:D4:7B
+2020-12-17 14:28:54.275==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:28:54.411==BleActivity:onScanResult uuid=D6:1F:91:08:D4:7B
+2020-12-17 14:28:54.567==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:54.595==BleActivity:onScanResult uuid=D6:1F:91:08:D4:7B
+2020-12-17 14:28:54.728==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:54.753==BleActivity:onScanResult uuid=D6:1F:91:08:D4:7B
+2020-12-17 14:28:54.870==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:54.897==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:55.024==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:55.083==BleActivity:onScanResult uuid=D6:1F:91:08:D4:7B
+2020-12-17 14:28:55.104==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:28:55.183==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:55.248==BleActivity:onScanResult uuid=D6:1F:91:08:D4:7B
+2020-12-17 14:28:55.272==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:28:55.350==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:55.388==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:55.496==BleActivity:onScanResult uuid=D1:01:3E:11:E9:96
+2020-12-17 14:28:55.724==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:55.752==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:28:55.774==BleActivity:onScanResult uuid=D6:1F:91:08:D4:7B
+2020-12-17 14:28:55.798==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:28:55.887==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:56.015==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:56.047==BleActivity:onScanResult uuid=FA:9C:27:BF:27:7D
+2020-12-17 14:28:56.089==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:28:56.181==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:56.261==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:28:56.482==BleController:connect to =FA:9C:27:BF:27:7D
+2020-12-17 14:28:56.488==BleController:Connection history=null
+2020-12-17 14:28:56.493==BleController:connectBle=FA:9C:27:BF:27:7D,@user click,autoConnect=false
+2020-12-17 14:28:56.708==BleController:wakeup
+2020-12-17 14:28:56.714==BleController:STATE_CONNECTED Device=FA:9C:27:BF:27:7D
+2020-12-17 14:28:56.730==BleController:Connection history=null
+2020-12-17 14:28:56.730==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:28:56.737==BleController:releaseWakeup
+2020-12-17 14:28:57.014==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:57.474==BleController:GATT_SUCCESS Device=FA:9C:27:BF:27:7D
+2020-12-17 14:28:57.485==BleService:onGattSuccess
+2020-12-17 14:28:57.662==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:57.915==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:28:57.987==BleController:FA:9C:27:BF:27:7D:writeData=31ffffffff
+2020-12-17 14:28:57.993==BleController:FA:9C:27:BF:27:7D:writeData=3401000000
+2020-12-17 14:28:58.007==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -87
+2020-12-17 14:28:58.017==BleController:FA:9C:27:BF:27:7D:character_value = 31010a
+2020-12-17 14:28:58.024==BleController:FA:9C:27:BF:27:7D:密码正确
+2020-12-17 14:28:58.036==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -88
+2020-12-17 14:28:58.149==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:58.317==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:28:58.744==BleController:connect to =D6:1F:91:08:D4:7B
+2020-12-17 14:28:58.751==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;
+2020-12-17 14:28:58.757==BleController:connectBle=D6:1F:91:08:D4:7B,@user click,autoConnect=false
+2020-12-17 14:28:59.503==BleController:wakeup
+2020-12-17 14:28:59.517==BleController:STATE_CONNECTED Device=D6:1F:91:08:D4:7B
+2020-12-17 14:28:59.550==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;
+2020-12-17 14:28:59.553==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:28:59.566==BleController:releaseWakeup
+2020-12-17 14:29:00.370==BleController:GATT_SUCCESS Device=D6:1F:91:08:D4:7B
+2020-12-17 14:29:00.380==BleService:onGattSuccess
+2020-12-17 14:29:00.884==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:00.897==BleController:D6:1F:91:08:D4:7B:writeData=31ffffffff
+2020-12-17 14:29:00.904==BleController:D6:1F:91:08:D4:7B:writeData=3401000000
+2020-12-17 14:29:00.918==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -89
+2020-12-17 14:29:01.116==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:29:01.297==BleController:D6:1F:91:08:D4:7B:character_value = 31010a
+2020-12-17 14:29:01.307==BleController:D6:1F:91:08:D4:7B:密码正确
+2020-12-17 14:29:01.336==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -88
+2020-12-17 14:29:01.372==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:01.532==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:01.701==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:01.753==BleActivity:onScanResult uuid=DF:FC:5D:18:C0:98
+2020-12-17 14:29:01.860==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:01.885==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:02.021==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:02.274==BleController:connect to =DF:FC:5D:18:C0:98
+2020-12-17 14:29:02.282==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;
+2020-12-17 14:29:02.288==BleController:connectBle=DF:FC:5D:18:C0:98,@user click,autoConnect=false
+2020-12-17 14:29:02.787==BleController:wakeup
+2020-12-17 14:29:02.800==BleController:STATE_CONNECTED Device=DF:FC:5D:18:C0:98
+2020-12-17 14:29:02.833==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;
+2020-12-17 14:29:02.836==BEACON_STATE_CHANGED:isBeaconConnecten=3
+2020-12-17 14:29:02.847==BleController:releaseWakeup
+2020-12-17 14:29:03.025==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:03.582==BleController:GATT_SUCCESS Device=DF:FC:5D:18:C0:98
+2020-12-17 14:29:03.590==BleService:onGattSuccess
+2020-12-17 14:29:04.009==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:04.094==BleController:DF:FC:5D:18:C0:98:writeData=31ffffffff
+2020-12-17 14:29:04.104==BleController:DF:FC:5D:18:C0:98:writeData=3401000000
+2020-12-17 14:29:04.124==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -85
+2020-12-17 14:29:04.174==BleController:DF:FC:5D:18:C0:98:character_value = 31010a
+2020-12-17 14:29:04.188==BleController:DF:FC:5D:18:C0:98:密码正确
+2020-12-17 14:29:04.195==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:04.210==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -85
+2020-12-17 14:29:04.461==BleController:connect to =D2:77:6C:50:61:01
+2020-12-17 14:29:04.470==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;
+2020-12-17 14:29:04.477==BleController:connectBle=D2:77:6C:50:61:01,@user click,autoConnect=false
+2020-12-17 14:29:04.804==BleController:wakeup
+2020-12-17 14:29:04.817==BleController:STATE_DISCONNECTED Device=D2:77:6C:50:61:01
+2020-12-17 14:29:04.837==BEACON_STATE_CHANGED:isBeaconConnecten=3
+2020-12-17 14:29:04.837==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;
+2020-12-17 14:29:04.854==BleController:releaseWakeup
+2020-12-17 14:29:05.004==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:05.020==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:05.164==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:05.329==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:05.654==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:05.832==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:06.322==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:06.470==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:06.651==BleActivity:onScanResult uuid=D2:77:6C:50:61:01
+2020-12-17 14:29:06.797==BleActivity:onScanResult uuid=CB:1F:6A:90:52:C9
+2020-12-17 14:29:06.854==BleController:connect to =CB:1F:6A:90:52:C9
+2020-12-17 14:29:06.862==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;
+2020-12-17 14:29:06.869==BleController:connectBle=CB:1F:6A:90:52:C9,@user click,autoConnect=false
+2020-12-17 14:29:07.158==BleController:wakeup
+2020-12-17 14:29:07.171==BleController:STATE_CONNECTED Device=CB:1F:6A:90:52:C9
+2020-12-17 14:29:07.193==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;
+2020-12-17 14:29:07.193==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:29:07.203==BleController:releaseWakeup
+2020-12-17 14:29:07.895==BleController:GATT_SUCCESS Device=CB:1F:6A:90:52:C9
+2020-12-17 14:29:07.899==BleService:onGattSuccess
+2020-12-17 14:29:08.014==BleController:connect to =D2:77:6C:50:61:01
+2020-12-17 14:29:08.029==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;
+2020-12-17 14:29:08.036==BleController:connectBle=D2:77:6C:50:61:01,@user click,autoConnect=false
+2020-12-17 14:29:08.405==BleController:CB:1F:6A:90:52:C9:writeData=31ffffffff
+2020-12-17 14:29:08.424==BleController:CB:1F:6A:90:52:C9:writeData=3401000000
+2020-12-17 14:29:08.424==BleController:wakeup
+2020-12-17 14:29:08.440==BleController:STATE_CONNECTED Device=D2:77:6C:50:61:01
+2020-12-17 14:29:08.449==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -93
+2020-12-17 14:29:08.462==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:29:08.461==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;
+2020-12-17 14:29:08.468==BleController:releaseWakeup
+2020-12-17 14:29:08.721==BleController:CB:1F:6A:90:52:C9:character_value = 31010a
+2020-12-17 14:29:08.733==BleController:CB:1F:6A:90:52:C9:密码正确
+2020-12-17 14:29:08.760==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -93
+2020-12-17 14:29:09.473==BleController:GATT_SUCCESS Device=D2:77:6C:50:61:01
+2020-12-17 14:29:09.476==BleService:onGattSuccess
+2020-12-17 14:29:09.990==BleController:D2:77:6C:50:61:01:writeData=31ffffffff
+2020-12-17 14:29:09.997==BleController:D2:77:6C:50:61:01:writeData=3401000000
+2020-12-17 14:29:10.010==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -96
+2020-12-17 14:29:10.132==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:29:10.136==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:29:10.142==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:29:10.251==BleController:D2:77:6C:50:61:01:character_value = 31010a
+2020-12-17 14:29:10.258==BleController:D2:77:6C:50:61:01:密码正确
+2020-12-17 14:29:10.278==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -99
+2020-12-17 14:29:21.086==BleActivity:onClick bluetoothAdapter.disable()
+2020-12-17 14:29:21.104==BleController:bluetoothState=TURNING_OFF
+2020-12-17 14:29:21.114==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:29:21.190==BleController:bluetoothState=OFF
+2020-12-17 14:29:21.200==BleController:wakeup
+2020-12-17 14:29:21.200==BleController:wakeup
+2020-12-17 14:29:21.202==BleController:wakeup
+2020-12-17 14:29:21.209==BaseApplication:java.lang.RuntimeException: Error receiving broadcast Intent { act=android.bluetooth.adapter.action.STATE_CHANGED flg=0x4000010 (has extras) } in c.d.a.c$b@2377ab3
+at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$-android_app_LoadedApk$ReceiverDispatcher$Args_53034(LoadedApk.java:1333)
+at android.app.-$Lambda$aS31cHIhRx41653CMnd4gZqshIQ.$m$7(Unknown Source:4)
+at android.app.-$Lambda$aS31cHIhRx41653CMnd4gZqshIQ.run(Unknown Source:39)
+at android.os.Handler.handleCallback(Handler.java:790)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loop(Looper.java:164)
+at com.ihp.launcher.BaseApplication$a.run(Unknown Source:0)
+at android.os.Handler.handleCallback(Handler.java:790)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loop(Looper.java:164)
+at android.app.ActivityThread.main(ActivityThread.java:6523)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:857)
+Caused by: java.util.ConcurrentModificationException
+at java.util.HashMap$HashIterator.nextNode(HashMap.java:1441)
+at java.util.HashMap$KeyIterator.next(HashMap.java:1465)
+at c.d.a.c.b(Unknown Source:16)
+at c.d.a.c.a(Unknown Source:71)
+at c.d.a.c$b.onReceive(:1)
+at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$-android_app_LoadedApk$ReceiverDispatcher$Args_53034(LoadedApk.java:1323)
+... 13 more
+java.util.ConcurrentModificationException
+at java.util.HashMap$HashIterator.nextNode(HashMap.java:1441)
+at java.util.HashMap$KeyIterator.next(HashMap.java:1465)
+at c.d.a.c.b(Unknown Source:16)
+at c.d.a.c.a(Unknown Source:71)
+at c.d.a.c$b.onReceive(:1)
+at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$-android_app_LoadedApk$ReceiverDispatcher$Args_53034(LoadedApk.java:1323)
+at android.app.-$Lambda$aS31cHIhRx41653CMnd4gZqshIQ.$m$7(Unknown Source:4)
+at android.app.-$Lambda$aS31cHIhRx41653CMnd4gZqshIQ.run(Unknown Source:39)
+at android.os.Handler.handleCallback(Handler.java:790)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loop(Looper.java:164)
+at com.ihp.launcher.BaseApplication$a.run(Unknown Source:0)
+at android.os.Handler.handleCallback(Handler.java:790)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loop(Looper.java:164)
+at android.app.ActivityThread.main(ActivityThread.java:6523)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:857)
+
+2020-12-17 14:29:21.211==BleController:STATE_DISCONNECTED Device=DF:FC:5D:18:C0:98
+2020-12-17 14:29:21.206==BleController:wakeup
+2020-12-17 14:29:21.211==BleController:STATE_DISCONNECTED Device=D6:1F:91:08:D4:7B
+2020-12-17 14:29:21.213==BleController:STATE_DISCONNECTED Device=CB:1F:6A:90:52:C9
+2020-12-17 14:29:21.219==BleController:STATE_DISCONNECTED Device=D2:77:6C:50:61:01
+2020-12-17 14:29:21.219==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:29:21.223==BleController:gatt.connect()true, Device=CB:1F:6A:90:52:C9
+2020-12-17 14:29:21.223==BleController:gatt.connect()true, Device=D6:1F:91:08:D4:7B
+2020-12-17 14:29:21.231==BleController:gatt.connect()true, Device=D2:77:6C:50:61:01
+2020-12-17 14:29:21.226==BleController:gatt.connect()true, Device=DF:FC:5D:18:C0:98
+2020-12-17 14:29:21.247==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:21.247==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:29:21.255==BleController:releaseWakeup
+2020-12-17 14:29:21.261==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:21.263==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:21.265==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:21.272==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:29:21.270==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:29:21.280==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:29:22.709==BleActivity:onClick bluetoothAdapter.enable()
+2020-12-17 14:29:25.403==BleController:bluetoothState=TURNING_ON
+2020-12-17 14:29:25.412==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:29:25.566==BleController:bluetoothState=ON
+2020-12-17 14:29:25.573==BleController:connectToSavedBeacon from STATE_ON
+2020-12-17 14:29:25.581==BleController:bondes.size() == 0
+2020-12-17 14:29:25.586==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:25.591==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:25.597==BleController:connectBle=FA:9C:27:BF:27:7D,SavedBeacon@ble on Or BleService onCreate,autoConnect=true
+2020-12-17 14:29:25.611==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:25.617==BleController:connectBle=D6:1F:91:08:D4:7B,SavedBeacon@ble on Or BleService onCreate,autoConnect=true
+2020-12-17 14:29:25.625==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:25.630==BleController:connectBle=DF:FC:5D:18:C0:98,SavedBeacon@ble on Or BleService onCreate,autoConnect=true
+2020-12-17 14:29:25.639==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:25.644==BleController:connectBle=CB:1F:6A:90:52:C9,SavedBeacon@ble on Or BleService onCreate,autoConnect=true
+2020-12-17 14:29:25.654==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:25.660==BleController:connectBle=D2:77:6C:50:61:01,SavedBeacon@ble on Or BleService onCreate,autoConnect=true
+2020-12-17 14:29:25.669==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:29:26.382==BleActivity:onScanResult mac=D6:1F:91:08:D4:7B
+2020-12-17 14:29:26.400==BleController:connect to =D6:1F:91:08:D4:7B
+2020-12-17 14:29:26.409==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:26.416==BleController:connectBle=D6:1F:91:08:D4:7B,@user click,autoConnect=false
+2020-12-17 14:29:29.626==BleController:wakeup
+2020-12-17 14:29:29.640==BleController:STATE_CONNECTED Device=D6:1F:91:08:D4:7B
+2020-12-17 14:29:29.671==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:29.672==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:29:29.686==BleController:releaseWakeup
+2020-12-17 14:29:29.778==BleActivity:onScanResult mac=FA:9C:27:BF:27:7D
+2020-12-17 14:29:29.803==BleController:connect to =FA:9C:27:BF:27:7D
+2020-12-17 14:29:29.810==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:29.815==BleController:connectBle=FA:9C:27:BF:27:7D,@user click,autoConnect=false
+2020-12-17 14:29:30.123==BleController:wakeup
+2020-12-17 14:29:30.137==BleController:STATE_CONNECTED Device=FA:9C:27:BF:27:7D
+2020-12-17 14:29:30.165==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:29:30.165==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:30.179==BleController:releaseWakeup
+2020-12-17 14:29:30.364==BleActivity:onScanResult mac=DF:FC:5D:18:C0:98
+2020-12-17 14:29:30.408==BleController:connect to =DF:FC:5D:18:C0:98
+2020-12-17 14:29:30.416==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:30.424==BleController:connectBle=DF:FC:5D:18:C0:98,@user click,autoConnect=false
+2020-12-17 14:29:30.705==BleController:wakeup
+2020-12-17 14:29:30.720==BleController:STATE_CONNECTED Device=DF:FC:5D:18:C0:98
+2020-12-17 14:29:30.742==BEACON_STATE_CHANGED:isBeaconConnecten=3
+2020-12-17 14:29:30.744==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:30.751==BleController:releaseWakeup
+2020-12-17 14:29:30.898==BleController:GATT_SUCCESS Device=D6:1F:91:08:D4:7B
+2020-12-17 14:29:30.904==BleService:onGattSuccess
+2020-12-17 14:29:30.946==BleController:GATT_SUCCESS Device=FA:9C:27:BF:27:7D
+2020-12-17 14:29:30.952==BleService:onGattSuccess
+2020-12-17 14:29:31.405==BleController:D6:1F:91:08:D4:7B:writeData=31ffffffff
+2020-12-17 14:29:31.416==BleController:D6:1F:91:08:D4:7B:writeData=3401000000
+2020-12-17 14:29:31.451==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -98
+2020-12-17 14:29:31.457==BleController:FA:9C:27:BF:27:7D:writeData=31ffffffff
+2020-12-17 14:29:31.471==BleController:FA:9C:27:BF:27:7D:writeData=3401000000
+2020-12-17 14:29:31.492==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -91
+2020-12-17 14:29:31.507==BleController:FA:9C:27:BF:27:7D:character_value = 31010a
+2020-12-17 14:29:31.514==BleController:FA:9C:27:BF:27:7D:密码正确
+2020-12-17 14:29:31.529==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -91
+2020-12-17 14:29:31.596==BleController:GATT_SUCCESS Device=DF:FC:5D:18:C0:98
+2020-12-17 14:29:31.603==BleService:onGattSuccess
+2020-12-17 14:29:31.846==BleActivity:onScanResult mac=CB:1F:6A:90:52:C9
+2020-12-17 14:29:31.893==BleController:connect to =CB:1F:6A:90:52:C9
+2020-12-17 14:29:31.906==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:31.916==BleController:connectBle=CB:1F:6A:90:52:C9,@user click,autoConnect=false
+2020-12-17 14:29:32.108==BleController:DF:FC:5D:18:C0:98:writeData=31ffffffff
+2020-12-17 14:29:32.125==BleController:DF:FC:5D:18:C0:98:writeData=3401000000
+2020-12-17 14:29:32.154==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -95
+2020-12-17 14:29:32.497==BleController:DF:FC:5D:18:C0:98:character_value = 31010a
+2020-12-17 14:29:32.508==BleController:DF:FC:5D:18:C0:98:密码正确
+2020-12-17 14:29:32.536==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -95
+2020-12-17 14:29:33.546==BleController:wakeup
+2020-12-17 14:29:33.559==BleController:STATE_CONNECTED Device=CB:1F:6A:90:52:C9
+2020-12-17 14:29:33.590==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:29:33.590==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:33.608==BleController:releaseWakeup
+2020-12-17 14:29:34.762==BleController:GATT_SUCCESS Device=CB:1F:6A:90:52:C9
+2020-12-17 14:29:34.772==BleService:onGattSuccess
+2020-12-17 14:29:35.276==BleController:CB:1F:6A:90:52:C9:writeData=31ffffffff
+2020-12-17 14:29:35.291==BleController:CB:1F:6A:90:52:C9:writeData=3401000000
+2020-12-17 14:29:35.325==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -100
+2020-12-17 14:29:35.517==BleController:CB:1F:6A:90:52:C9:character_value = 31010a
+2020-12-17 14:29:35.531==BleController:CB:1F:6A:90:52:C9:密码正确
+2020-12-17 14:29:35.556==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -96
+2020-12-17 14:29:36.064==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:29:36.069==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:29:36.074==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:29:37.320==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:29:38.127==ACTION_BATTERY_CHANGED:isCharge=0,lev=82,voltage=3962,temp=450
+2020-12-17 14:29:38.147==ACTION_BATTERY_CHANGED:isCharge=0,lev=82,voltage=3926,temp=450
+2020-12-17 14:29:38.182==ACTION_BATTERY_CHANGED:isCharge=0,lev=81,voltage=3957,temp=450
+2020-12-17 14:29:39.858==ACTION_BATTERY_CHANGED:isCharge=0,lev=81,voltage=3949,temp=450
+2020-12-17 14:29:40.599==BleActivity:onScanResult uuid=EA:73:3F:1C:AE:81
+2020-12-17 14:29:41.316==BleActivity:onScanResult mac=D2:77:6C:50:61:01
+2020-12-17 14:29:41.353==BleController:connect to =D2:77:6C:50:61:01
+2020-12-17 14:29:41.361==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:41.366==BleController:connectBle=D2:77:6C:50:61:01,@user click,autoConnect=false
+2020-12-17 14:29:41.423==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 14:29:41.428==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:29:41.434==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:29:41.682==BleController:wakeup
+2020-12-17 14:29:41.693==BleController:STATE_CONNECTED Device=D2:77:6C:50:61:01
+2020-12-17 14:29:41.715==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:41.715==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:29:41.726==BleController:releaseWakeup
+2020-12-17 14:29:42.606==BleController:GATT_SUCCESS Device=D2:77:6C:50:61:01
+2020-12-17 14:29:42.616==BleService:onGattSuccess
+2020-12-17 14:29:43.117==BleController:D2:77:6C:50:61:01:writeData=31ffffffff
+2020-12-17 14:29:43.124==BleController:D2:77:6C:50:61:01:writeData=3401000000
+2020-12-17 14:29:43.137==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -95
+2020-12-17 14:29:43.203==BleController:D2:77:6C:50:61:01:character_value = 31010a
+2020-12-17 14:29:43.208==BleController:D2:77:6C:50:61:01:密码正确
+2020-12-17 14:29:43.220==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -94
+2020-12-17 14:29:49.374==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:29:57.854==BleController:wakeup
+2020-12-17 14:29:57.868==BleController:STATE_DISCONNECTED Device=CB:1F:6A:90:52:C9
+2020-12-17 14:29:57.905==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:57.906==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:29:57.920==BleController:releaseWakeup
+2020-12-17 14:29:58.746==BleController:wakeup
+2020-12-17 14:29:58.760==BleController:STATE_DISCONNECTED Device=FA:9C:27:BF:27:7D
+2020-12-17 14:29:58.781==BleController:gatt.connect()true, Device=FA:9C:27:BF:27:7D
+2020-12-17 14:29:58.811==BEACON_STATE_CHANGED:isBeaconConnecten=3
+2020-12-17 14:29:58.811==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:58.822==BleController:releaseWakeup
+2020-12-17 14:29:59.198==BleController:wakeup
+2020-12-17 14:29:59.211==BleController:STATE_DISCONNECTED Device=D6:1F:91:08:D4:7B
+2020-12-17 14:29:59.229==BleController:gatt.connect()true, Device=D6:1F:91:08:D4:7B
+2020-12-17 14:29:59.254==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:29:59.255==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:29:59.265==BleController:releaseWakeup
+2020-12-17 14:29:59.714==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:29:59.724==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:29:59.730==ihp.Upload:Battery Temp = 450,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:29:59.736==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:29:59.742==BleService:SCREEN_OFF=82642ms
+2020-12-17 14:29:59.746==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:30:02.146==BleController:wakeup
+2020-12-17 14:30:02.160==BleController:STATE_DISCONNECTED Device=D2:77:6C:50:61:01
+2020-12-17 14:30:02.179==BleController:gatt.connect()true, Device=D2:77:6C:50:61:01
+2020-12-17 14:30:02.203==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:30:02.213==BleController:releaseWakeup
+2020-12-17 14:30:04.543==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:30:04.551==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:30:04.567==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:04.620==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:04.660==WIFI_STATE_CHANGED:isConnected,rssi=80,level=4
+2020-12-17 14:30:04.645==BleService:SCREEN_ON
+2020-12-17 14:30:04.658==WIFI_STATE_CHANGED:isConnected,rssi=80,level=4
+2020-12-17 14:30:04.658==WIFI_STATE_CHANGED:isConnected,rssi=80,level=4
+2020-12-17 14:30:05.650==BleController:wakeup
+2020-12-17 14:30:05.667==BleController:STATE_DISCONNECTED Device=DF:FC:5D:18:C0:98
+2020-12-17 14:30:05.687==BleController:gatt.connect()true, Device=DF:FC:5D:18:C0:98
+2020-12-17 14:30:05.719==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:30:05.721==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:30:05.728==BleController:releaseWakeup
+2020-12-17 14:30:06.659==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:30:06.683==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:30:07.585==stepCount:stepCount=26
+2020-12-17 14:30:07.615==stepCount:getShutdownStepCount=0
+2020-12-17 14:30:07.634==stepCount:getDaybefore=0
+2020-12-17 14:30:07.647==stepCount:stepCount2=26
+2020-12-17 14:30:09.810==stepCount:stepCount=27
+2020-12-17 14:30:09.823==stepCount:getShutdownStepCount=0
+2020-12-17 14:30:09.834==stepCount:getDaybefore=0
+2020-12-17 14:30:09.844==stepCount:stepCount2=27
+2020-12-17 14:30:13.643==WIFI_STATE_CHANGED:isConnected,rssi=73,level=4
+2020-12-17 14:30:19.741==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:30:19.771==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:30:19.779==ihp.Upload:Battery Temp = 450,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:30:19.785==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:30:19.792==BleService:SCREEN_OFF=15147ms
+2020-12-17 14:30:19.797==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:30:21.333==BleController:wakeup
+2020-12-17 14:30:21.348==BleController:STATE_CONNECTED Device=FA:9C:27:BF:27:7D
+2020-12-17 14:30:21.380==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:30:21.395==BleController:releaseWakeup
+2020-12-17 14:30:22.155==BleController:GATT_SUCCESS Device=FA:9C:27:BF:27:7D
+2020-12-17 14:30:22.166==BleService:onGattSuccess
+2020-12-17 14:30:22.659==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:30:22.665==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:30:22.671==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:22.682==BleController:FA:9C:27:BF:27:7D:writeData=31ffffffff
+2020-12-17 14:30:22.690==BleController:FA:9C:27:BF:27:7D:writeData=3401000000
+2020-12-17 14:30:22.714==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:22.723==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -88
+2020-12-17 14:30:22.752==BleController:FA:9C:27:BF:27:7D:character_value = 31010a
+2020-12-17 14:30:22.749==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 14:30:22.759==BleController:FA:9C:27:BF:27:7D:密码正确
+2020-12-17 14:30:22.758==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 14:30:22.764==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 14:30:22.768==BleService:SCREEN_ON
+2020-12-17 14:30:22.772==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -91
+2020-12-17 14:30:24.787==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:30:24.812==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:30:24.836==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:24.874==BleController:FA:9C:27:BF:27:7D:character_value = 3554040200
+2020-12-17 14:30:24.889==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -88
+2020-12-17 14:30:37.751==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:30:37.794==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:37.808==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:30:37.816==ihp.Upload:Battery Temp = 450,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:30:37.821==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:30:37.828==BleService:SCREEN_OFF=15060ms
+2020-12-17 14:30:37.832==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:39.075==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:30:39.082==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:30:39.088==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:39.124==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:39.151==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:30:39.153==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:30:39.155==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:30:39.170==BleService:SCREEN_ON
+2020-12-17 14:30:41.205==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:30:41.238==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:30:41.263==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:41.797==BleController:FA:9C:27:BF:27:7D:character_value = 3552040200
+2020-12-17 14:30:41.823==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -73
+2020-12-17 14:30:42.109==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:30:50.390==WIFI_STATE_CHANGED:isConnected,rssi=68,level=4
+2020-12-17 14:30:50.395==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:30:50.401==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:30:50.859==BleController:wakeup
+2020-12-17 14:30:50.873==BleController:STATE_CONNECTED Device=D6:1F:91:08:D4:7B
+2020-12-17 14:30:50.901==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:30:50.901==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:30:50.912==BleController:releaseWakeup
+2020-12-17 14:30:51.696==BleController:GATT_SUCCESS Device=D6:1F:91:08:D4:7B
+2020-12-17 14:30:51.702==BleService:onGattSuccess
+2020-12-17 14:30:52.204==BleController:D6:1F:91:08:D4:7B:writeData=31ffffffff
+2020-12-17 14:30:52.210==BleController:D6:1F:91:08:D4:7B:writeData=3401000000
+2020-12-17 14:30:52.222==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -92
+2020-12-17 14:30:52.249==BleController:D6:1F:91:08:D4:7B:character_value = 31010a
+2020-12-17 14:30:52.255==BleController:D6:1F:91:08:D4:7B:密码正确
+2020-12-17 14:30:52.268==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -95
+2020-12-17 14:30:53.234==BleController:wakeup
+2020-12-17 14:30:53.241==BleController:STATE_CONNECTED Device=D2:77:6C:50:61:01
+2020-12-17 14:30:53.263==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:30:53.264==BEACON_STATE_CHANGED:isBeaconConnecten=3
+2020-12-17 14:30:53.269==BleController:releaseWakeup
+2020-12-17 14:30:53.373==BleController:wakeup
+2020-12-17 14:30:53.383==BleController:STATE_CONNECTED Device=DF:FC:5D:18:C0:98
+2020-12-17 14:30:53.404==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:30:53.404==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:30:53.414==BleController:releaseWakeup
+2020-12-17 14:30:54.046==BleController:GATT_SUCCESS Device=DF:FC:5D:18:C0:98
+2020-12-17 14:30:54.057==BleService:onGattSuccess
+2020-12-17 14:30:54.258==BleController:GATT_SUCCESS Device=D2:77:6C:50:61:01
+2020-12-17 14:30:54.265==BleService:onGattSuccess
+2020-12-17 14:30:54.561==BleController:DF:FC:5D:18:C0:98:writeData=31ffffffff
+2020-12-17 14:30:54.576==BleController:DF:FC:5D:18:C0:98:writeData=3401000000
+2020-12-17 14:30:54.596==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -89
+2020-12-17 14:30:54.605==BleController:DF:FC:5D:18:C0:98:character_value = 31010a
+2020-12-17 14:30:54.611==BleController:DF:FC:5D:18:C0:98:密码正确
+2020-12-17 14:30:54.620==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -91
+2020-12-17 14:30:54.769==BleController:D2:77:6C:50:61:01:writeData=31ffffffff
+2020-12-17 14:30:54.783==BleController:D2:77:6C:50:61:01:writeData=3401000000
+2020-12-17 14:30:54.807==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -84
+2020-12-17 14:30:54.875==BleController:D2:77:6C:50:61:01:character_value = 31010a
+2020-12-17 14:30:54.881==BleController:D2:77:6C:50:61:01:密码正确
+2020-12-17 14:30:54.895==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -85
+2020-12-17 14:30:59.363==ACTION_BATTERY_CHANGED:isCharge=0,lev=81,voltage=3953,temp=460
+2020-12-17 14:30:59.396==ACTION_BATTERY_CHANGED:isCharge=0,lev=81,voltage=3938,temp=460
+2020-12-17 14:30:59.425==ACTION_BATTERY_CHANGED:isCharge=0,lev=81,voltage=3904,temp=460
+2020-12-17 14:31:00.175==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:31:03.192==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:31:09.217==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:31:12.492==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:12.509==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:31:12.517==ihp.Upload:Battery Temp = 460,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:31:12.522==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:31:12.528==BleService:SCREEN_OFF=33358ms
+2020-12-17 14:31:12.533==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:15.385==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:31:15.393==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:31:15.400==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:15.437==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:15.465==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:31:15.468==BleService:SCREEN_ON
+2020-12-17 14:31:15.468==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:31:15.474==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:31:17.487==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:31:17.498==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:31:17.509==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:31:17.517==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:31:17.525==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:31:17.535==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:17.646==BleController:DF:FC:5D:18:C0:98:character_value = 353a040200
+2020-12-17 14:31:17.656==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -89
+2020-12-17 14:31:17.947==BleController:D2:77:6C:50:61:01:character_value = 3548040200
+2020-12-17 14:31:17.969==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -87
+2020-12-17 14:31:18.021==BleController:FA:9C:27:BF:27:7D:character_value = 3552040200
+2020-12-17 14:31:18.048==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -75
+2020-12-17 14:31:18.322==BleController:D6:1F:91:08:D4:7B:character_value = 354f040200
+2020-12-17 14:31:18.353==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -91
+2020-12-17 14:31:18.426==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:31:30.108==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:31:30.118==AutoScanBlec.d.a.a@f26c9ed:startScan
+2020-12-17 14:31:30.127==ihp.Upload:Battery Temp = 460,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:31:30.137==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 14:31:30.157==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:30.433==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:30.445==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:31:30.451==ihp.Upload:Battery Temp = 460,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:31:30.456==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:31:30.462==BleService:SCREEN_OFF=14995ms
+2020-12-17 14:31:30.466==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:30.548==AutoScanBlec.d.a.a@f26c9ed:new mac=CB:1F:6A:90:52:C9,Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:31:30.571==BleController:connect to =CB:1F:6A:90:52:C9
+2020-12-17 14:31:30.586==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:31:30.597==BleController:connectBle=CB:1F:6A:90:52:C9,@auto scan,autoConnect=false
+2020-12-17 14:31:31.195==AutoScanBlec.d.a.a@f26c9ed:new mac=CB:1F:6A:90:52:C9,Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:31:31.219==BleController:connect to =CB:1F:6A:90:52:C9
+2020-12-17 14:31:31.238==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:31:31.252==BleController:connectBle=CB:1F:6A:90:52:C9,@auto scan,autoConnect=false
+2020-12-17 14:31:31.585==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 14:31:31.598==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:31:31.605==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:31.616==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:31:31.643==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:31:31.646==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:31:31.646==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:31:31.664==BleService:SCREEN_ON
+2020-12-17 14:31:31.688==AutoScanBlec.d.a.a@f26c9ed:new mac=CB:1F:6A:90:52:C9,Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:31:31.698==BleController:connect to =CB:1F:6A:90:52:C9
+2020-12-17 14:31:31.706==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:31:31.712==BleController:connectBle=CB:1F:6A:90:52:C9,@auto scan,autoConnect=false
+2020-12-17 14:31:31.755==AutoScanBlec.d.a.a@f26c9ed:stopScanBle
+2020-12-17 14:31:32.708==BleController:wakeup
+2020-12-17 14:31:32.725==BleController:STATE_CONNECTED Device=CB:1F:6A:90:52:C9
+2020-12-17 14:31:32.755==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:31:32.752==BleController:Connection history=FA:9C:27:BF:27:7D,IHP-B01_test;D6:1F:91:08:D4:7B,IHP-B01_test;DF:FC:5D:18:C0:98,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;D2:77:6C:50:61:01,IHP-B01_test;
+2020-12-17 14:31:32.765==BleController:releaseWakeup
+2020-12-17 14:31:33.054==BleController:GATT_SUCCESS Device=CB:1F:6A:90:52:C9
+2020-12-17 14:31:33.061==BleService:onGattSuccess
+2020-12-17 14:31:33.564==BleController:CB:1F:6A:90:52:C9:writeData=31ffffffff
+2020-12-17 14:31:33.582==BleController:CB:1F:6A:90:52:C9:writeData=3401000000
+2020-12-17 14:31:33.612==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -86
+2020-12-17 14:31:33.625==BleController:CB:1F:6A:90:52:C9:character_value = 31010a
+2020-12-17 14:31:33.633==BleController:CB:1F:6A:90:52:C9:密码正确
+2020-12-17 14:31:33.649==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -86
+2020-12-17 14:31:33.676==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:31:33.689==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:31:33.702==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:31:33.709==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:31:33.717==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:31:33.724==BleController:CB:1F:6A:90:52:C9:writeData=3500000000
+2020-12-17 14:31:33.732==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:31:33.744==BleController:CB:1F:6A:90:52:C9:character_value = 354f040200
+2020-12-17 14:31:33.755==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -86
+2020-12-17 14:31:33.997==BleController:DF:FC:5D:18:C0:98:character_value = 353b040200
+2020-12-17 14:31:33.996==BleController:D6:1F:91:08:D4:7B:character_value = 354e040200
+2020-12-17 14:31:34.069==BleController:D2:77:6C:50:61:01:character_value = 3548040200
+2020-12-17 14:31:34.083==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -86
+2020-12-17 14:31:34.371==BleController:FA:9C:27:BF:27:7D:character_value = 3552040200
+2020-12-17 14:31:34.395==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -73
+2020-12-17 14:31:46.781==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:31:46.796==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:31:46.805==ihp.Upload:Battery Temp = 460,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:31:46.811==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:31:46.819==BleService:SCREEN_OFF=15159ms
+2020-12-17 14:31:46.824==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:02.530==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:32:02.539==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:32:02.546==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:02.587==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:02.593==BleService:SCREEN_ON
+2020-12-17 14:32:02.639==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:32:02.638==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:32:02.640==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:32:04.607==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:32:04.625==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:32:04.646==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:32:04.659==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:32:04.672==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:32:04.682==BleController:CB:1F:6A:90:52:C9:writeData=3500000000
+2020-12-17 14:32:04.695==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:04.900==BleController:D2:77:6C:50:61:01:character_value = 040a000000
+2020-12-17 14:32:04.906==BleController:CB:1F:6A:90:52:C9:character_value = 354f040200
+2020-12-17 14:32:04.915==BleService:D2:77:6C:50:61:01:onSensorMoved rssi=-86
+2020-12-17 14:32:04.952==RecorderService:stopUpload
+2020-12-17 14:32:04.951==BleService:start VideoRecord
+2020-12-17 14:32:04.971==BleController:D2:77:6C:50:61:01:character_value = 37001cffa3006f
+2020-12-17 14:32:04.975==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:04.985==BleController:D2:77:6C:50:61:01:character_value = 400cf3e1c2a0fc
+2020-12-17 14:32:04.997==BleController:D2:77:6C:50:61:01:character_value = 353f040200
+2020-12-17 14:32:04.996==RecorderService:enter record
+2020-12-17 14:32:05.013==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -87
+2020-12-17 14:32:05.030==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -87
+2020-12-17 14:32:05.044==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -87
+2020-12-17 14:32:05.119==BleController:D2:77:6C:50:61:01:character_value = 42000a0000
+2020-12-17 14:32:05.129==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -89
+2020-12-17 14:32:05.125==BleController:DF:FC:5D:18:C0:98:character_value = 3539040200
+2020-12-17 14:32:05.145==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -91
+2020-12-17 14:32:05.189==RecorderService:Camera.opened
+2020-12-17 14:32:05.193==BleController:FA:9C:27:BF:27:7D:character_value = 3552040200
+2020-12-17 14:32:05.205==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -74
+2020-12-17 14:32:05.208==RecorderService:record_dura20
+2020-12-17 14:32:05.214==RecorderService:enter prepare
+2020-12-17 14:32:05.230==RecorderService:prepareed
+2020-12-17 14:32:05.573==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:32:05.724==BleController:CB:1F:6A:90:52:C9:character_value = 040a000000
+2020-12-17 14:32:05.728==BleService:CB:1F:6A:90:52:C9:onSensorMoved rssi=-86
+2020-12-17 14:32:05.739==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -95
+2020-12-17 14:32:05.767==RecorderService:mRecorder.started
+2020-12-17 14:32:05.777==RecorderService:start record
+2020-12-17 14:32:05.799==BleController:D2:77:6C:50:61:01:character_value = 040a000000
+2020-12-17 14:32:05.811==BleService:D2:77:6C:50:61:01:onSensorMoved rssi=-89
+2020-12-17 14:32:05.839==BleController:D2:77:6C:50:61:01:character_value = 37f6e00659f9e6
+2020-12-17 14:32:05.945==BleController:D2:77:6C:50:61:01:character_value = 40fb53eaf9c36d
+2020-12-17 14:32:05.954==BleController:CB:1F:6A:90:52:C9:character_value = 37ff7c00f0001c
+2020-12-17 14:32:05.963==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -86
+2020-12-17 14:32:05.973==BleController:CB:1F:6A:90:52:C9:character_value = 40f633f9f0ca39
+2020-12-17 14:32:05.977==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -86
+2020-12-17 14:32:05.987==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -95
+2020-12-17 14:32:06.003==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -86
+2020-12-17 14:32:06.005==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -95
+2020-12-17 14:32:06.019==BleController:D2:77:6C:50:61:01:character_value = 4200620000
+2020-12-17 14:32:06.026==BleController:CB:1F:6A:90:52:C9:character_value = 4200020000
+2020-12-17 14:32:06.033==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -88
+2020-12-17 14:32:06.045==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -94
+2020-12-17 14:32:06.245==BleController:D2:77:6C:50:61:01:character_value = 040a000000
+2020-12-17 14:32:06.254==BleService:D2:77:6C:50:61:01:onSensorMoved rssi=-88
+2020-12-17 14:32:06.275==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -91
+2020-12-17 14:32:06.395==BleController:D6:1F:91:08:D4:7B:character_value = 354c040200
+2020-12-17 14:32:06.412==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -91
+2020-12-17 14:32:06.470==BleController:D2:77:6C:50:61:01:character_value = 37011a04de0792
+2020-12-17 14:32:06.492==BleController:D2:77:6C:50:61:01:character_value = 40fd36ef25bcde
+2020-12-17 14:32:06.509==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -89
+2020-12-17 14:32:06.522==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -89
+2020-12-17 14:32:06.694==BleController:D2:77:6C:50:61:01:character_value = 4200050000
+2020-12-17 14:32:06.707==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -91
+2020-12-17 14:32:08.939==ACTION_BATTERY_CHANGED:isCharge=0,lev=81,voltage=3900,temp=470
+2020-12-17 14:32:08.969==ACTION_BATTERY_CHANGED:isCharge=0,lev=81,voltage=3881,temp=470
+2020-12-17 14:32:09.046==ACTION_BATTERY_CHANGED:isCharge=0,lev=80,voltage=3862,temp=470
+2020-12-17 14:32:11.601==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 14:32:14.610==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:17.647==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:32:17.683==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:17.695==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:32:17.711==ihp.Upload:isRecordAfter< 0min, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:32:17.718==BleService:SCREEN_OFF=15125ms
+2020-12-17 14:32:19.695==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:19.713==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:32:19.720==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:19.739==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:19.773==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:19.773==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:19.774==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:19.790==BleService:SCREEN_ON
+2020-12-17 14:32:21.811==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:32:21.829==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:32:21.837==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:32:21.852==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:32:21.861==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:32:21.870==BleController:CB:1F:6A:90:52:C9:writeData=3500000000
+2020-12-17 14:32:21.880==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:21.999==BleController:DF:FC:5D:18:C0:98:character_value = 353a040200
+2020-12-17 14:32:22.000==BleController:CB:1F:6A:90:52:C9:character_value = 354c040200
+2020-12-17 14:32:22.298==BleController:D6:1F:91:08:D4:7B:character_value = 354d040200
+2020-12-17 14:32:22.313==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -91
+2020-12-17 14:32:22.369==BleController:D2:77:6C:50:61:01:character_value = 3544040200
+2020-12-17 14:32:22.383==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -85
+2020-12-17 14:32:22.446==BleController:FA:9C:27:BF:27:7D:character_value = 3551040200
+2020-12-17 14:32:22.461==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -72
+2020-12-17 14:32:25.690==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 14:32:26.484==RecorderService:record complete
+2020-12-17 14:32:26.492==RecorderService:stopRecord
+2020-12-17 14:32:27.341==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:32:27.347==ihp.Upload:isRecordAfter< 0min, from=stopRecord
+2020-12-17 14:32:27.362==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:34.872==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:34.888==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:32:34.896==ihp.Upload:Battery Temp = 470,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:32:34.901==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:32:34.908==BleService:SCREEN_OFF=15118ms
+2020-12-17 14:32:34.908==ihp.Upload:subFile.length=1
+2020-12-17 14:32:34.924==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:34.925==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:32:34.932==ihp.Upload:FileName=201217_133205_D2776C506101.mp4,FileSize=21578991
+2020-12-17 14:32:34.949==guid:gsm.serial=20IHPA00202A
+2020-12-17 14:32:34.976==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 14:32:36.000==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 14:32:36.024==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:32:36.038==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:36.073==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:36.097==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:36.096==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:36.099==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 14:32:36.112==BleService:SCREEN_ON
+2020-12-17 14:32:38.128==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:32:38.182==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:32:38.195==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:32:38.205==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:32:38.212==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:32:38.218==BleController:CB:1F:6A:90:52:C9:writeData=3500000000
+2020-12-17 14:32:38.226==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:38.357==BleController:CB:1F:6A:90:52:C9:character_value = 354c040200
+2020-12-17 14:32:38.382==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -89
+2020-12-17 14:32:38.425==BleController:DF:FC:5D:18:C0:98:character_value = 353b040200
+2020-12-17 14:32:38.445==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -90
+2020-12-17 14:32:38.574==BleController:FA:9C:27:BF:27:7D:character_value = 3550040200
+2020-12-17 14:32:38.591==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -72
+2020-12-17 14:32:38.647==BleController:D2:77:6C:50:61:01:character_value = 3544040200
+2020-12-17 14:32:38.671==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -91
+2020-12-17 14:32:38.723==BleController:D6:1F:91:08:D4:7B:character_value = 354e040200
+2020-12-17 14:32:38.742==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -94
+2020-12-17 14:32:45.100==BleController:DF:FC:5D:18:C0:98:character_value = 040a000000
+2020-12-17 14:32:45.115==BleService:DF:FC:5D:18:C0:98:onSensorMoved rssi=-90
+2020-12-17 14:32:45.142==RecorderService:stopUpload
+2020-12-17 14:32:45.142==BleService:start VideoRecord
+2020-12-17 14:32:45.162==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -90
+2020-12-17 14:32:45.162==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:45.165==ihp.Upload:httpUpload Throwable=Connection has been shut down
+2020-12-17 14:32:45.170==RecorderService:enter record
+2020-12-17 14:32:45.196==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:45.206==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:45.265==RecorderService:Camera.opened
+2020-12-17 14:32:45.280==RecorderService:record_dura20
+2020-12-17 14:32:45.284==RecorderService:enter prepare
+2020-12-17 14:32:45.295==RecorderService:prepareed
+2020-12-17 14:32:45.322==BleController:DF:FC:5D:18:C0:98:character_value = 37fa68fd4efe35
+2020-12-17 14:32:45.330==BleController:DF:FC:5D:18:C0:98:character_value = 40e5cc16a7f6d6
+2020-12-17 14:32:45.339==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -93
+2020-12-17 14:32:45.347==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -93
+2020-12-17 14:32:45.396==BleController:DF:FC:5D:18:C0:98:character_value = 4200100000
+2020-12-17 14:32:45.404==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -93
+2020-12-17 14:32:45.637==RecorderService:mRecorder.started
+2020-12-17 14:32:45.643==RecorderService:start record
+2020-12-17 14:32:45.846==BleController:DF:FC:5D:18:C0:98:character_value = 040a000000
+2020-12-17 14:32:45.851==BleService:DF:FC:5D:18:C0:98:onSensorMoved rssi=-93
+2020-12-17 14:32:45.862==BleController:DF:FC:5D:18:C0:98:character_value = 37fffa0008ffe2
+2020-12-17 14:32:45.871==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -86
+2020-12-17 14:32:45.880==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -86
+2020-12-17 14:32:45.921==BleController:DF:FC:5D:18:C0:98:character_value = 400a2205cec699
+2020-12-17 14:32:45.929==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -84
+2020-12-17 14:32:46.146==BleController:DF:FC:5D:18:C0:98:character_value = 4200030000
+2020-12-17 14:32:46.157==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -83
+2020-12-17 14:32:46.865==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:46.874==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:32:46.878==ihp.Upload:isRecordAfter< 0min, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:32:46.883==BleService:SCREEN_OFF=10772ms
+2020-12-17 14:32:47.076==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:32:47.083==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:32:47.089==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:47.145==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:47.172==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:32:47.179==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:32:47.178==BleService:SCREEN_ON
+2020-12-17 14:32:47.183==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 14:32:49.198==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:32:49.210==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:32:49.227==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:32:49.235==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:32:49.242==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:32:49.250==BleController:CB:1F:6A:90:52:C9:writeData=3500000000
+2020-12-17 14:32:49.262==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:32:49.448==BleController:DF:FC:5D:18:C0:98:character_value = 3534040200
+2020-12-17 14:32:49.449==BleController:CB:1F:6A:90:52:C9:character_value = 354c040200
+2020-12-17 14:32:49.599==BleController:FA:9C:27:BF:27:7D:character_value = 3552040200
+2020-12-17 14:32:49.616==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -75
+2020-12-17 14:32:49.670==BleController:D6:1F:91:08:D4:7B:character_value = 354e040200
+2020-12-17 14:32:49.689==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -89
+2020-12-17 14:32:49.743==BleController:D2:77:6C:50:61:01:character_value = 3543040200
+2020-12-17 14:32:49.751==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -84
+2020-12-17 14:32:52.517==ACTION_BATTERY_CHANGED:isCharge=0,lev=80,voltage=3883,temp=470
+2020-12-17 14:32:53.112==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 14:32:58.491==ACTION_BATTERY_CHANGED:isCharge=0,lev=80,voltage=3875,temp=480
+2020-12-17 14:32:58.531==ACTION_BATTERY_CHANGED:isCharge=0,lev=80,voltage=3860,temp=480
+2020-12-17 14:32:58.586==ACTION_BATTERY_CHANGED:isCharge=0,lev=80,voltage=3841,temp=470
+2020-12-17 14:33:02.250==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:02.284==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:33:02.291==ihp.Upload:isRecordAfter< 0min, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:33:02.297==BleService:SCREEN_OFF=15119ms
+2020-12-17 14:33:06.524==RecorderService:record complete
+2020-12-17 14:33:06.533==RecorderService:stopRecord
+2020-12-17 14:33:07.221==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:33:07.227==ihp.Upload:isRecordAfter< 0min, from=stopRecord
+2020-12-17 14:33:07.251==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:07.258==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:33:07.265==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:07.274==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:07.277==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:07.313==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:07.323==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:07.317==BleService:SCREEN_ON
+2020-12-17 14:33:07.323==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:08.549==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:08.559==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:33:08.566==ihp.Upload:Battery Temp = 470,from=android.intent.action.SCREEN_OFF
+2020-12-17 14:33:08.570==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 14:33:08.576==ihp.Upload:subFile.length=2
+2020-12-17 14:33:08.576==BleService:SCREEN_OFF=1259ms
+2020-12-17 14:33:08.592==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:08.593==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:33:08.599==ihp.Upload:FileName=201217_133205_D2776C506101.mp4,FileSize=21578991
+2020-12-17 14:33:08.611==guid:gsm.serial=20IHPA00202A
+2020-12-17 14:33:08.618==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 14:33:09.469==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:09.479==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:33:09.486==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:09.538==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:09.558==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:09.561==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:09.560==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 14:33:09.574==BleService:SCREEN_ON
+2020-12-17 14:33:11.592==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:33:11.617==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:33:11.636==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:33:11.644==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:33:11.652==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:33:11.659==BleController:CB:1F:6A:90:52:C9:writeData=3500000000
+2020-12-17 14:33:11.667==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:11.724==BleController:DF:FC:5D:18:C0:98:character_value = 3535040200
+2020-12-17 14:33:11.737==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -79
+2020-12-17 14:33:11.873==BleController:FA:9C:27:BF:27:7D:character_value = 3553040200
+2020-12-17 14:33:11.878==BleController:CB:1F:6A:90:52:C9:character_value = 354c040200
+2020-12-17 14:33:12.022==BleController:D2:77:6C:50:61:01:character_value = 3542040200
+2020-12-17 14:33:12.042==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -84
+2020-12-17 14:33:12.172==BleController:D6:1F:91:08:D4:7B:character_value = 354d040200
+2020-12-17 14:33:12.195==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -87
+2020-12-17 14:33:15.527==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 14:33:24.645==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:24.662==BleService:SCREEN_OFF=15088ms
+2020-12-17 14:33:25.229==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 14:33:25.236==BLE_ACTION_STATE_CHANGED:isEnabled=true
+2020-12-17 14:33:25.242==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:25.276==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:25.284==BleService:SCREEN_ON
+2020-12-17 14:33:25.308==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 14:33:25.308==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 14:33:25.308==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 14:33:27.301==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:33:27.322==BleController:FA:9C:27:BF:27:7D:writeData=3500000000
+2020-12-17 14:33:27.339==BleController:DF:FC:5D:18:C0:98:writeData=3500000000
+2020-12-17 14:33:27.354==BleController:D2:77:6C:50:61:01:writeData=3500000000
+2020-12-17 14:33:27.365==BleController:D6:1F:91:08:D4:7B:writeData=3500000000
+2020-12-17 14:33:27.375==BleController:CB:1F:6A:90:52:C9:writeData=3500000000
+2020-12-17 14:33:27.390==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:27.552==BleController:CB:1F:6A:90:52:C9:character_value = 354b040200
+2020-12-17 14:33:27.575==BleController:CB:1F:6A:90:52:C9:onReadRemoteRssi rssi= -90
+2020-12-17 14:33:27.623==BleController:D6:1F:91:08:D4:7B:character_value = 354d040200
+2020-12-17 14:33:27.644==BleController:D6:1F:91:08:D4:7B:onReadRemoteRssi rssi= -89
+2020-12-17 14:33:27.696==BleController:D2:77:6C:50:61:01:character_value = 3544040200
+2020-12-17 14:33:27.710==BleController:D2:77:6C:50:61:01:onReadRemoteRssi rssi= -88
+2020-12-17 14:33:27.771==BleController:FA:9C:27:BF:27:7D:character_value = 3551040200
+2020-12-17 14:33:27.785==BleController:FA:9C:27:BF:27:7D:onReadRemoteRssi rssi= -80
+2020-12-17 14:33:28.077==BleController:DF:FC:5D:18:C0:98:character_value = 3534040200
+2020-12-17 14:33:28.097==BleController:DF:FC:5D:18:C0:98:onReadRemoteRssi rssi= -97
+2020-12-17 14:33:34.306==WIFI_STATE_CHANGED:isConnected,rssi=68,level=4
+2020-12-17 14:33:45.400==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:33:45.400==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:33:45.420==ihp.Upload:httpUpload Throwable=Unable to resolve host "api.inhandplus.com": No address associated with hostname
+2020-12-17 14:33:45.437==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:33:45.450==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:33:45.451==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 14:33:45.475==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 14:33:45.478==guid:gsm.serial=20IHPA00202A
+2020-12-17 14:33:45.484==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 14:33:45.494==ihp.Upload:httpUpload Throwable=Unable to resolve host "api.inhandplus.com": No address associated with hostname
+2020-12-17 14:33:45.507==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:45.508==BEACON_STATE_CHANGED:isBeaconConnecten=5
+2020-12-17 14:33:45.687==BleController:receiver action=com.cwtcn.action_ble_disconnect
+2020-12-17 14:33:45.695==BleController:长按断开连接=FA:9C:27:BF:27:7D
+2020-12-17 14:33:45.714==BEACON_STATE_CHANGED:isBeaconConnecten=4
+2020-12-17 14:33:47.265==BleController:receiver action=com.cwtcn.action_ble_disconnect
+2020-12-17 14:33:47.274==BleController:长按断开连接=DF:FC:5D:18:C0:98
+2020-12-17 14:33:47.294==BEACON_STATE_CHANGED:isBeaconConnecten=3
+2020-12-17 14:33:48.098==ACTION_BATTERY_CHANGED:isCharge=0,lev=79,voltage=3848,temp=480
+2020-12-17 14:33:48.787==BleController:receiver action=com.cwtcn.action_ble_disconnect
+2020-12-17 14:33:48.800==BleController:长按断开连接=D2:77:6C:50:61:01
+2020-12-17 14:33:48.810==BleController:wakeup
+2020-12-17 14:33:48.830==BleController:STATE_DISCONNECTED Device=D2:77:6C:50:61:01
+2020-12-17 14:33:48.823==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:33:48.843==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:33:48.847==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:33:48.850==BEACON_STATE_CHANGED:isBeaconConnecten=2
+2020-12-17 14:33:48.859==BleController:Connection history=D6:1F:91:08:D4:7B,IHP-B01_test;CB:1F:6A:90:52:C9,IHP-B01_test;
+2020-12-17 14:33:48.868==BleController:releaseWakeup
+2020-12-17 14:33:50.165==BleController:receiver action=com.cwtcn.action_ble_disconnect
+2020-12-17 14:33:50.173==BleController:长按断开连接=D6:1F:91:08:D4:7B
+2020-12-17 14:33:50.193==BEACON_STATE_CHANGED:isBeaconConnecten=1
+2020-12-17 14:33:52.524==BleController:receiver action=com.cwtcn.action_ble_disconnect
+2020-12-17 14:33:52.532==BleController:长按断开连接=CB:1F:6A:90:52:C9
+2020-12-17 14:33:52.552==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:33:53.631==BleActivity:onClick bluetoothAdapter.disable()
+2020-12-17 14:33:53.651==BleController:bluetoothState=TURNING_OFF
+2020-12-17 14:33:53.676==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:33:53.756==BleController:bluetoothState=OFF
+2020-12-17 14:33:53.767==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:33:54.583==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:33:54.626==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:33:54.632==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:33:54.638==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:33:55.390==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:33:55.402==BleService:SCREEN_OFF=30118ms
+2020-12-17 14:48:26.976==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:26.982==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 14:48:26.998==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:48:27.037==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:48:27.068==BleService:SCREEN_ON
+2020-12-17 14:48:27.065==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:27.070==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:27.073==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:29.092==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 14:48:29.124==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:48:30.364==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:31.773==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:31.832==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:31.832==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:31.858==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:31.882==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 14:48:42.141==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:48:42.163==BleService:SCREEN_OFF=15094ms
+2020-12-17 14:49:01.280==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:49:01.287==ihp.Upload:Battery Temp = 480,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 14:49:01.292==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 14:49:01.298==ihp.Upload:subFile.length=2
+2020-12-17 14:49:01.298==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 14:49:01.313==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:49:01.314==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:49:01.320==ihp.Upload:FileName=201217_133205_D2776C506101.mp4,FileSize=21578991
+2020-12-17 14:49:01.329==guid:gsm.serial=20IHPA00202A
+2020-12-17 14:49:01.334==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 14:49:07.610==ACTION_BATTERY_CHANGED:isCharge=0,lev=79,voltage=3960,temp=460
+2020-12-17 14:49:07.641==ACTION_BATTERY_CHANGED:isCharge=0,lev=79,voltage=3949,temp=460
+2020-12-17 14:49:07.669==ACTION_BATTERY_CHANGED:isCharge=0,lev=78,voltage=3954,temp=470
+2020-12-17 14:50:09.604==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 14:50:09.612==ihp.Upload:httpUpload Throwable=Unable to resolve host "api.inhandplus.com": No address associated with hostname
+2020-12-17 14:50:09.620==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 14:50:09.627==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 14:50:09.635==guid:gsm.serial=20IHPA00202A
+2020-12-17 14:50:09.641==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 14:50:09.651==ihp.Upload:httpUpload Throwable=Unable to resolve host "api.inhandplus.com": No address associated with hostname
+2020-12-17 14:50:09.667==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 14:50:09.668==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 15:13:42.535==ACTION_BATTERY_CHANGED:isCharge=0,lev=78,voltage=3984,temp=450
+2020-12-17 15:13:42.586==ACTION_BATTERY_CHANGED:isCharge=0,lev=78,voltage=3967,temp=450
+2020-12-17 15:13:42.614==ACTION_BATTERY_CHANGED:isCharge=0,lev=78,voltage=3969,temp=450
+2020-12-17 15:32:37.240==ACTION_BATTERY_CHANGED:isCharge=0,lev=78,voltage=3970,temp=450
+2020-12-17 15:55:06.853==ACTION_BATTERY_CHANGED:isCharge=0,lev=77,voltage=3975,temp=450
+2020-12-17 16:43:11.252==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 16:43:11.265==ihp.Upload:Battery Temp = 450,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 16:43:11.269==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 16:43:11.275==ihp.Upload:subFile.length=2
+2020-12-17 16:43:11.276==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 16:43:11.291==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 16:43:11.292==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 16:43:11.298==ihp.Upload:FileName=201217_133205_D2776C506101.mp4,FileSize=21578991
+2020-12-17 16:43:11.306==guid:gsm.serial=20IHPA00202A
+2020-12-17 16:43:11.311==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 16:45:36.070==ACTION_BATTERY_CHANGED:isCharge=0,lev=77,voltage=3871,temp=450
+2020-12-17 16:45:36.105==ACTION_BATTERY_CHANGED:isCharge=0,lev=77,voltage=3930,temp=450
+2020-12-17 16:45:36.142==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3849,temp=450
+2020-12-17 16:45:45.907==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3862,temp=460
+2020-12-17 16:45:45.954==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3845,temp=450
+2020-12-17 16:45:45.980==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3846,temp=450
+2020-12-17 16:47:25.533==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3952,temp=470
+2020-12-17 16:47:25.576==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3940,temp=460
+2020-12-17 16:47:25.620==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3937,temp=460
+2020-12-17 16:50:05.163==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3952,temp=470
+2020-12-17 16:50:05.203==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3944,temp=470
+2020-12-17 16:50:05.250==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3927,temp=470
+2020-12-17 16:54:44.756==ACTION_BATTERY_CHANGED:isCharge=0,lev=76,voltage=3928,temp=460
+2020-12-17 16:54:44.787==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3915,temp=460
+2020-12-17 17:00:34.378==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3955,temp=460
+2020-12-17 17:12:33.942==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3954,temp=460
+2020-12-17 17:32:13.509==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3948,temp=460
+2020-12-17 17:45:36.221==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3937,temp=460
+2020-12-17 17:49:53.041==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3948,temp=450
+2020-12-17 17:49:53.089==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3936,temp=450
+2020-12-17 17:49:53.129==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3933,temp=450
+2020-12-17 18:06:22.670==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3940,temp=450
+2020-12-17 18:06:22.717==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3925,temp=450
+2020-12-17 18:26:12.241==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3933,temp=450
+2020-12-17 18:26:12.280==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3927,temp=460
+2020-12-17 18:26:12.316==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3935,temp=460
+2020-12-17 18:37:34.614==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 18:37:34.626==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:37:34.642==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:37:35.644==stepCount:stepCount=51
+2020-12-17 18:37:35.648==stepCount:getShutdownStepCount=0
+2020-12-17 18:37:35.653==stepCount:getDaybefore=0
+2020-12-17 18:37:35.657==stepCount:stepCount2=51
+2020-12-17 18:37:36.382==WIFI_STATE_CHANGED:isConnected,rssi=53,level=4
+2020-12-17 18:37:36.387==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:37:36.393==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:37:37.030==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:37:37.067==BleService:SCREEN_ON
+2020-12-17 18:37:37.068==WIFI_STATE_CHANGED:isConnected,rssi=53,level=4
+2020-12-17 18:37:37.066==WIFI_STATE_CHANGED:isConnected,rssi=53,level=4
+2020-12-17 18:37:37.076==WIFI_STATE_CHANGED:isConnected,rssi=53,level=4
+2020-12-17 17:39:54.760==MainActivity:onCreate
+2020-12-17 17:39:54.776==MainActivity:IHP-A_SV106_201215,versionCode=509
+2020-12-17 17:39:54.792==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 17:39:54.800==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 17:39:54.806==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:39:54.863==AutoScanBlec.d.a.a@8cc17c5:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 17:39:54.870==AutoScanBlec.d.a.a@8cc17c5:start
+2020-12-17 17:39:54.875==AutoScanBlec.d.a.a@8cc17c5:INTERVAL=20000,DURATION=1600
+2020-12-17 17:39:54.891==BleController:Connection history=
+2020-12-17 17:39:54.896==BleController:connectToSavedBeacon from BleService onCreate
+2020-12-17 17:39:54.901==BleController:bluetoothAdapter.isEnabled() == false
+2020-12-17 17:39:55.113==ACTION_BATTERY_CHANGED:isCharge=2,lev=73,voltage=3978,temp=460
+2020-12-17 17:39:57.587==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 17:39:57.592==ihp.Upload:Battery Temp = 460,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 17:39:57.596==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 17:39:57.601==ihp.Upload:subFile.length=2
+2020-12-17 17:39:57.602==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 17:39:57.615==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:39:57.615==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 17:39:57.620==ihp.Upload:FileName=201217_133205_D2776C506101.mp4,FileSize=21578991
+2020-12-17 17:39:57.631==guid:gsm.serial=20IHPA00202A
+2020-12-17 17:39:57.640==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 17:40:18.252==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:40:18.259==BleService:SCREEN_ON
+2020-12-17 17:40:18.291==WIFI_STATE_CHANGED:isConnected,rssi=49,level=4
+2020-12-17 17:40:18.291==WIFI_STATE_CHANGED:isConnected,rssi=49,level=4
+2020-12-17 17:40:18.295==WIFI_STATE_CHANGED:isConnected,rssi=49,level=4
+2020-12-17 17:40:18.536==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:40:18.551==BleService:SCREEN_OFF=294ms
+2020-12-17 17:40:32.121==ACTION_BATTERY_CHANGED:isCharge=2,lev=73,voltage=4084,temp=480
+2020-12-17 17:40:32.165==ACTION_BATTERY_CHANGED:isCharge=2,lev=73,voltage=4054,temp=480
+2020-12-17 17:40:32.199==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4057,temp=470
+2020-12-17 17:40:32.669==WIFI_STATE_CHANGED:isConnected,rssi=49,level=4
+2020-12-17 17:40:32.676==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 17:40:32.684==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:40:32.830==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:40:32.836==BleService:SCREEN_ON
+2020-12-17 17:40:32.866==WIFI_STATE_CHANGED:isConnected,rssi=53,level=4
+2020-12-17 17:40:32.874==WIFI_STATE_CHANGED:isConnected,rssi=53,level=4
+2020-12-17 17:40:32.878==WIFI_STATE_CHANGED:isConnected,rssi=53,level=4
+2020-12-17 17:40:33.130==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4066,temp=480
+2020-12-17 17:40:34.857==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 17:40:34.903==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:40:42.716==guid:gsm.serial=20IHPA00202A
+2020-12-17 17:40:44.732==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 17:40:47.062==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4088,temp=480
+2020-12-17 17:40:50.758==WIFI_STATE_CHANGED:isConnected,rssi=55,level=4
+2020-12-17 17:40:59.797==WIFI_STATE_CHANGED:isConnected,rssi=56,level=4
+2020-12-17 17:41:04.983==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=4088,temp=480
+2020-12-17 17:41:05.003==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3876,temp=490
+2020-12-17 17:41:05.817==WIFI_STATE_CHANGED:isConnected,rssi=54,level=4
+2020-12-17 17:41:08.832==WIFI_STATE_CHANGED:isConnected,rssi=57,level=4
+2020-12-17 17:41:09.770==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=3876,temp=490
+2020-12-17 17:41:09.801==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=3981,temp=490
+2020-12-17 17:41:09.820==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=3917,temp=480
+2020-12-17 17:41:17.878==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4096,temp=500
+2020-12-17 17:41:17.924==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4069,temp=490
+2020-12-17 17:41:17.947==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4019,temp=490
+2020-12-17 17:41:22.627==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4090,temp=500
+2020-12-17 17:41:24.973==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:41:24.979==BleService:SCREEN_OFF=52143ms
+2020-12-17 17:41:24.996==MyCrashHandler:java.util.ConcurrentModificationException
+at java.util.ArrayList$Itr.next(ArrayList.java:860)
+at c.d.c.b.a(Unknown Source:12)
+at com.ihp.widget.VerticalDrawerLayout.a(:6)
+at com.ihp.widget.VerticalDrawerLayout.a(Unknown Source:0)
+at com.ihp.widget.VerticalDrawerLayout$d$a.run(Unknown Source:8)
+at java.lang.Thread.run(Thread.java:764)
+
+2020-12-17 17:41:37.294==ihp.Upload:statusLine=HTTP/1.1 201 Created
+2020-12-17 17:41:37.317==ihp.Upload:httpUpload rd={"status":201,"code":201}
+2020-12-17 17:41:37.322==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 17:41:37.327==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 17:41:37.335==guid:gsm.serial=20IHPA00202A
+2020-12-17 17:41:37.340==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 17:41:54.367==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4086,temp=510
+2020-12-17 17:41:54.437==ACTION_BATTERY_CHANGED:isCharge=2,lev=74,voltage=4112,temp=510
+2020-12-17 17:41:54.478==ACTION_BATTERY_CHANGED:isCharge=2,lev=75,voltage=4068,temp=500
+2020-12-17 17:42:02.163==ACTION_BATTERY_CHANGED:isCharge=2,lev=75,voltage=4091,temp=510
+2020-12-17 17:42:26.795==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3909,temp=520
+2020-12-17 17:42:26.877==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3909,temp=520
+2020-12-17 17:42:27.290==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:27.293==BleService:SCREEN_ON
+2020-12-17 17:42:27.308==WIFI_STATE_CHANGED:isConnected,rssi=50,level=4
+2020-12-17 17:42:27.310==WIFI_STATE_CHANGED:isConnected,rssi=50,level=4
+2020-12-17 17:42:27.308==WIFI_STATE_CHANGED:isConnected,rssi=50,level=4
+2020-12-17 17:42:28.533==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:28.595==WIFI_STATE_CHANGED:isConnected,rssi=50,level=4
+2020-12-17 17:42:28.601==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 17:42:28.606==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:29.316==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 17:42:29.341==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:29.889==WIFI_STATE_CHANGED:isConnected,rssi=57,level=4
+2020-12-17 17:42:32.901==WIFI_STATE_CHANGED:isConnected,rssi=54,level=4
+2020-12-17 17:42:38.926==WIFI_STATE_CHANGED:isConnected,rssi=56,level=4
+2020-12-17 17:42:43.803==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:43.814==BleService:SCREEN_OFF=16521ms
+2020-12-17 17:42:44.306==WIFI_STATE_CHANGED:isConnected,rssi=55,level=4
+2020-12-17 17:42:44.311==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 17:42:44.317==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:44.340==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:44.367==WIFI_STATE_CHANGED:isConnected,rssi=55,level=4
+2020-12-17 17:42:44.368==WIFI_STATE_CHANGED:isConnected,rssi=55,level=4
+2020-12-17 17:42:44.369==WIFI_STATE_CHANGED:isConnected,rssi=55,level=4
+2020-12-17 17:42:44.624==BleService:SCREEN_ON
+2020-12-17 17:42:46.638==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 17:42:46.676==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:50.310==WIFI_STATE_CHANGED:isConnected,rssi=61,level=4
+2020-12-17 17:42:53.323==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 17:42:59.422==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:42:59.428==BleService:SCREEN_OFF=14807ms
+2020-12-17 17:43:00.055==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 17:43:00.061==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 17:43:00.067==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:43:00.112==BleService:SCREEN_ON
+2020-12-17 17:43:00.105==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:43:00.164==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 17:43:00.168==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 17:43:00.167==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 17:43:02.029==guid:gsm.serial=20IHPA00202A
+2020-12-17 17:43:02.158==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 17:43:02.176==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:43:02.237==guid:gsm.serial=20IHPA00202A
+2020-12-17 17:43:10.672==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:43:10.722==WIFI_STATE_CHANGED:isConnected,rssi=77,level=4
+2020-12-17 17:43:10.728==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 17:43:10.735==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:43:25.966==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 17:43:25.975==BleService:SCREEN_OFF=25863ms
+2020-12-17 17:43:47.490==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3940,temp=520
+2020-12-17 17:48:51.055==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3953,temp=500
+2020-12-17 17:48:51.092==ACTION_BATTERY_CHANGED:isCharge=0,lev=75,voltage=3932,temp=500
+2020-12-17 17:48:51.122==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3935,temp=500
+2020-12-17 17:49:31.568==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3936,temp=500
+2020-12-17 17:59:01.106==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3944,temp=480
+2020-12-17 17:59:01.140==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3909,temp=480
+2020-12-17 17:59:01.180==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3938,temp=480
+2020-12-17 18:08:30.725==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3938,temp=470
+2020-12-17 18:08:30.759==ACTION_BATTERY_CHANGED:isCharge=0,lev=74,voltage=3930,temp=460
+2020-12-17 18:08:30.800==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3943,temp=470
+2020-12-17 18:16:30.348==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3936,temp=460
+2020-12-17 18:16:30.383==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3923,temp=460
+2020-12-17 18:16:30.422==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3939,temp=460
+2020-12-17 18:21:21.579==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 18:21:21.586==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:21:21.591==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:21:21.645==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:21:21.652==BleService:SCREEN_ON
+2020-12-17 18:21:21.675==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 18:21:21.681==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 18:21:21.685==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 18:21:23.665==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 18:21:23.681==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:21:25.496==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 18:21:25.501==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:21:25.509==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:21:42.771==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:21:42.781==BleService:SCREEN_OFF=21129ms
+2020-12-17 18:22:50.672==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 18:22:50.678==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:22:50.685==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:22:50.727==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:22:50.730==BleService:SCREEN_ON
+2020-12-17 18:22:50.771==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 18:22:50.775==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 18:22:50.776==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 18:22:52.759==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 18:22:52.807==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:22:56.737==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 18:23:02.025==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:23:02.040==BleService:SCREEN_OFF=11309ms
+2020-12-17 18:23:02.526==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 18:23:02.537==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:23:02.545==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:23:02.587==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:23:02.604==BleService:SCREEN_ON
+2020-12-17 18:23:02.628==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 18:23:02.640==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 18:23:02.638==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 18:23:03.836==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 18:23:03.842==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:23:03.848==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:23:40.185==MainActivity:onCreate
+2020-12-17 18:23:40.202==MainActivity:IHP-A_SV106_201215,versionCode=509
+2020-12-17 18:23:40.221==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 18:23:40.229==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:23:40.235==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:23:40.322==AutoScanBlec.d.a.a@45c39c8:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 18:23:40.328==AutoScanBlec.d.a.a@45c39c8:start
+2020-12-17 18:23:40.333==AutoScanBlec.d.a.a@45c39c8:INTERVAL=20000,DURATION=1600
+2020-12-17 18:23:40.350==BleController:Connection history=
+2020-12-17 18:23:40.356==BleController:connectToSavedBeacon from BleService onCreate
+2020-12-17 18:23:40.361==BleController:bluetoothAdapter.isEnabled() == false
+2020-12-17 18:23:40.610==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3784,temp=460
+2020-12-17 18:23:42.885==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 18:23:42.892==ihp.Upload:Battery Temp = 460,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 18:23:42.897==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 18:23:42.902==ihp.Upload:subFile.length=1
+2020-12-17 18:23:42.903==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 18:23:42.913==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:23:42.913==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 18:23:42.919==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 18:23:42.929==guid:gsm.serial=20IHPA00202A
+2020-12-17 18:23:42.939==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 18:23:55.288==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 18:23:55.339==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 18:23:55.338==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 18:23:55.336==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 18:23:55.392==wifiSettings:InHandPlus Guest:1
+2020-12-17 18:23:55.408==wifiSettings:inhandPlus2.4:6
+2020-12-17 18:23:55.420==wifiSettings:Volla_2G:6
+2020-12-17 18:23:55.432==wifiSettings:InHandPlus Guest:1
+2020-12-17 18:23:55.441==wifiSettings:inhandPlus2.4:6
+2020-12-17 18:23:55.449==wifiSettings:Volla_2G:6
+2020-12-17 18:23:57.127==wifiSettings:Volla_Guest:6
+2020-12-17 18:23:57.174==wifiSettings:codebrick:6
+2020-12-17 18:23:57.260==wifiSettings:dalicious:6
+2020-12-17 18:23:57.386==wifiSettings:puzzledata:6
+2020-12-17 18:23:58.133==WIFI_STATE_CHANGED:isConnected,rssi=75,level=4
+2020-12-17 18:23:58.138==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:23:58.143==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:24:03.367==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 18:24:03.388==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:24:03.393==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 18:24:06.103==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 18:24:06.109==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 18:24:06.115==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:34:43.600==MainActivity:onCreate
+2020-12-17 19:34:43.616==MainActivity:IHP-A_SV106_201215,versionCode=509
+2020-12-17 19:34:43.636==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:34:43.644==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:34:43.650==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:34:43.711==AutoScanBlec.d.a.a@b5c4193:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 19:34:43.718==AutoScanBlec.d.a.a@b5c4193:start
+2020-12-17 19:34:43.723==AutoScanBlec.d.a.a@b5c4193:INTERVAL=20000,DURATION=1600
+2020-12-17 19:34:43.741==BleController:Connection history=
+2020-12-17 19:34:43.747==BleController:connectToSavedBeacon from BleService onCreate
+2020-12-17 19:34:43.751==BleController:bluetoothAdapter.isEnabled() == false
+2020-12-17 19:34:43.982==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3777,temp=410
+2020-12-17 19:34:46.294==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:34:46.300==ihp.Upload:Battery Temp = 410,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:34:46.304==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:34:46.309==ihp.Upload:subFile.length=1
+2020-12-17 19:34:46.310==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:34:46.320==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:34:46.320==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:34:46.326==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:34:46.336==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:34:46.346==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:35:05.093==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:35:05.112==BleService:SCREEN_ON
+2020-12-17 19:35:05.144==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 19:35:05.146==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 19:35:05.149==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 19:35:05.463==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:35:05.475==BleService:SCREEN_OFF=365ms
+2020-12-17 19:35:06.953==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:35:06.977==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:35:06.981==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:35:19.483==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3904,temp=420
+2020-12-17 19:35:19.511==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3879,temp=420
+2020-12-17 19:35:19.562==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3896,temp=420
+2020-12-17 19:36:20.339==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 19:36:20.344==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:36:20.349==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:20.396==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:20.416==WIFI_STATE_CHANGED:isConnected,rssi=59,level=4
+2020-12-17 19:36:20.417==WIFI_STATE_CHANGED:isConnected,rssi=59,level=4
+2020-12-17 19:36:20.419==WIFI_STATE_CHANGED:isConnected,rssi=59,level=4
+2020-12-17 19:36:20.433==BleService:SCREEN_ON
+2020-12-17 19:36:22.442==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:36:22.461==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:27.995==ACTION_BATTERY_CHANGED:isCharge=2,lev=73,voltage=3896,temp=420
+2020-12-17 19:36:28.035==ACTION_BATTERY_CHANGED:isCharge=2,lev=73,voltage=4000,temp=430
+2020-12-17 19:36:30.085==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3893,temp=430
+2020-12-17 19:36:30.087==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3893,temp=430
+2020-12-17 19:36:32.442==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 19:36:34.097==stepCount:stepCount=27
+2020-12-17 19:36:34.110==stepCount:getShutdownStepCount=0
+2020-12-17 19:36:34.121==stepCount:getDaybefore=0
+2020-12-17 19:36:34.132==stepCount:stepCount2=27
+2020-12-17 19:36:35.462==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:36:47.537==WIFI_STATE_CHANGED:isConnected,rssi=55,level=4
+2020-12-17 19:36:48.166==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:48.171==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:36:48.189==ihp.Upload:Battery Temp = 430,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:36:48.194==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:36:48.199==BleService:SCREEN_OFF=27766ms
+2020-12-17 19:36:48.201==ihp.Upload:subFile.length=1
+2020-12-17 19:36:48.224==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:36:48.230==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:36:48.242==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:36:48.241==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:48.247==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:36:52.418==ACTION_BATTERY_CHANGED:isCharge=2,lev=73,voltage=3999,temp=430
+2020-12-17 19:36:52.426==WIFI_STATE_CHANGED:isConnected,rssi=55,level=4
+2020-12-17 19:36:52.434==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:36:52.441==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:52.501==BleService:SCREEN_ON
+2020-12-17 19:36:52.496==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:52.534==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:36:52.540==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:36:52.542==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:36:53.930==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3999,temp=430
+2020-12-17 19:36:53.947==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:36:53.959==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:36:53.969==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:53.987==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3845,temp=430
+2020-12-17 19:36:54.043==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:54.050==BleService:SCREEN_OFF=1549ms
+2020-12-17 19:36:54.287==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:54.292==BleService:SCREEN_ON
+2020-12-17 19:36:54.332==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:36:54.319==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:36:54.342==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:36:54.522==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:36:54.538==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:36:56.309==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:36:56.343==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:08.274==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:37:08.301==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:08.306==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:09.141==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:09.149==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:37:09.157==ihp.Upload:Battery Temp = 430,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:37:09.163==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:37:09.170==BleService:SCREEN_OFF=14879ms
+2020-12-17 19:37:09.171==ihp.Upload:subFile.length=1
+2020-12-17 19:37:09.188==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:09.189==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:37:09.197==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:37:09.207==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:37:09.214==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:37:29.255==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:37:29.288==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:29.289==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:48.221==WIFI_STATE_CHANGED:isConnected,rssi=61,level=4
+2020-12-17 19:37:48.227==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:37:48.240==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:48.297==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:48.300==BleService:SCREEN_ON
+2020-12-17 19:37:48.338==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:37:48.336==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:37:48.335==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:37:49.091==ACTION_BATTERY_CHANGED:isCharge=0,lev=73,voltage=3836,temp=430
+2020-12-17 19:37:49.130==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3847,temp=430
+2020-12-17 19:37:50.021==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:37:50.068==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:37:50.073==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:37:50.073==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:37:50.135==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:37:50.150==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:37:50.162==wifiSettings:Volla_2G:6
+2020-12-17 19:37:50.176==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:37:50.184==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:37:50.191==wifiSettings:Volla_2G:6
+2020-12-17 19:37:50.305==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:37:50.314==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:50.626==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:37:50.623==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:50.637==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:50.640==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:37:50.668==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:37:50.700==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:50.697==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:50.736==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 19:37:50.730==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:37:51.420==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:51.424==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:37:51.431==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:51.970==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:51.976==BleService:SCREEN_OFF=3677ms
+2020-12-17 19:37:52.249==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:52.254==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:37:52.263==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:52.291==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:37:52.312==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:52.314==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:52.315==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:52.329==BleService:SCREEN_ON
+2020-12-17 19:37:53.420==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:37:53.425==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:37:53.431==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:08.913==MainActivity:onCreate
+2020-12-17 19:40:08.931==MainActivity:IHP-A_SV106_201215,versionCode=509
+2020-12-17 19:40:08.951==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:40:08.958==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:40:08.965==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:09.018==AutoScanBlec.d.a.a@aa92f41:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 19:40:09.024==AutoScanBlec.d.a.a@aa92f41:start
+2020-12-17 19:40:09.029==AutoScanBlec.d.a.a@aa92f41:INTERVAL=20000,DURATION=1600
+2020-12-17 19:40:09.045==BleController:Connection history=
+2020-12-17 19:40:09.050==BleController:connectToSavedBeacon from BleService onCreate
+2020-12-17 19:40:09.054==BleController:bluetoothAdapter.isEnabled() == false
+2020-12-17 19:40:09.271==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3767,temp=430
+2020-12-17 19:40:12.245==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:40:12.245==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:40:12.774==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:40:12.780==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 19:40:15.142==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:40:15.232==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 19:40:15.231==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 19:40:15.276==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:40:15.288==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:15.297==wifiSettings:Volla_2G:6
+2020-12-17 19:40:15.306==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:40:15.307==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:40:15.311==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 19:40:15.314==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:15.320==wifiSettings:Volla_2G:6
+2020-12-17 19:40:15.374==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:40:15.387==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:15.392==wifiSettings:Volla_2G:6
+2020-12-17 19:40:15.408==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:40:15.407==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:40:15.408==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:GROUP_HANDSHAKE,supplicantError=123
+2020-12-17 19:40:15.408==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 19:40:15.430==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:40:15.430==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:40:15.440==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:40:15.445==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 19:40:15.482==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:40:15.487==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:15.493==wifiSettings:Volla_2G:6
+2020-12-17 19:40:15.507==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:40:15.513==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:15.519==wifiSettings:Volla_2G:6
+2020-12-17 19:40:15.532==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:40:15.537==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:15.542==wifiSettings:Volla_2G:6
+2020-12-17 19:40:15.940==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:40:15.959==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:40:15.997==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:40:16.056==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:40:16.064==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:16.071==wifiSettings:Volla_2G:6
+2020-12-17 19:40:16.102==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:40:16.107==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:40:16.114==wifiSettings:Volla_2G:6
+2020-12-17 19:40:16.131==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:40:16.138==ihp.Upload:Battery Temp = 430,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:40:16.144==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:40:16.153==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:40:16.150==ihp.Upload:subFile.length=1
+2020-12-17 19:40:16.182==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:40:16.188==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:16.197==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:40:16.212==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:40:16.224==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:40:17.327==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 19:40:17.332==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:40:17.338==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:32.212==BleService:SCREEN_ON
+2020-12-17 19:40:32.204==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:32.250==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:40:32.259==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:40:32.263==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:40:32.330==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:32.338==BleService:SCREEN_OFF=126ms
+2020-12-17 19:40:35.862==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3862,temp=440
+2020-12-17 19:40:35.883==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3843,temp=440
+2020-12-17 19:40:35.944==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3877,temp=440
+2020-12-17 19:40:37.340==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:40:37.373==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:37.372==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:47.611==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:40:47.617==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:40:47.623==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:47.647==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:47.667==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:40:47.670==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:40:47.671==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:40:47.905==BleService:SCREEN_ON
+2020-12-17 19:40:49.921==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:40:49.951==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:40:50.642==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:41:02.768==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:02.775==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:41:02.782==ihp.Upload:Battery Temp = 440,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:41:02.787==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:41:02.793==ihp.Upload:subFile.length=1
+2020-12-17 19:41:02.793==BleService:SCREEN_OFF=14888ms
+2020-12-17 19:41:02.809==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:02.810==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:41:02.817==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:41:02.828==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:41:02.835==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:41:22.876==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:41:22.905==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:22.909==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:36.420==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:41:36.428==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:41:36.436==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:37.388==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:37.392==BleService:SCREEN_ON
+2020-12-17 19:41:37.407==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:41:37.410==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:41:37.418==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:41:39.408==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:41:39.439==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:42.557==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:41:49.224==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:41:49.229==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:41:49.234==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:49.972==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:49.977==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:41:49.982==ihp.Upload:Battery Temp = 440,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:41:49.985==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:41:49.989==BleService:SCREEN_OFF=12597ms
+2020-12-17 19:41:49.990==ihp.Upload:subFile.length=1
+2020-12-17 19:41:50.002==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:41:50.003==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:41:50.009==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:41:50.016==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:41:50.021==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:42:05.211==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3879,temp=450
+2020-12-17 19:42:05.249==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3864,temp=450
+2020-12-17 19:42:05.287==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3871,temp=450
+2020-12-17 19:42:10.058==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:42:10.087==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:42:10.093==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:44:34.865==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3904,temp=450
+2020-12-17 19:45:35.082==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:45:35.103==ihp.Upload:Battery Temp = 450,from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 19:45:35.113==ihp.Upload:startUpload, from=com.cwtcn.ACTION_FW_HEARTBEAT
+2020-12-17 19:45:35.123==ihp.Upload:subFile.length=1
+2020-12-17 19:45:35.151==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:45:35.148==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:45:35.164==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:45:35.176==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:45:35.184==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:45:54.525==ACTION_BATTERY_CHANGED:isCharge=2,lev=72,voltage=3904,temp=450
+2020-12-17 19:45:54.628==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:45:54.633==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:45:54.654==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:45:54.689==ACTION_BATTERY_CHANGED:isCharge=2,lev=72,voltage=3991,temp=450
+2020-12-17 19:45:55.135==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:45:55.142==BleService:SCREEN_ON
+2020-12-17 19:45:55.156==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:45:55.160==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:45:55.159==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:45:55.221==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:45:55.238==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:45:55.240==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:45:57.159==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:45:57.184==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:00.734==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:46:09.788==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:09.809==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:46:09.818==ihp.Upload:Battery Temp = 450,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:46:09.826==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:46:09.833==ihp.Upload:subFile.length=1
+2020-12-17 19:46:09.832==BleService:SCREEN_OFF=14694ms
+2020-12-17 19:46:09.851==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:09.852==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:46:09.859==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:46:09.869==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:46:09.876==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:46:10.421==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:10.429==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:46:10.437==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:10.478==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:10.485==BleService:SCREEN_ON
+2020-12-17 19:46:10.509==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:46:10.510==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:46:10.516==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:46:12.508==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:46:12.526==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:15.539==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:15.547==BleService:SCREEN_OFF=5063ms
+2020-12-17 19:46:15.849==WIFI_STATE_CHANGED:isConnected,rssi=66,level=4
+2020-12-17 19:46:15.857==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:46:15.867==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:15.906==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:15.910==BleService:SCREEN_ON
+2020-12-17 19:46:15.937==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:15.942==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:15.944==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:17.927==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:46:17.943==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:18.905==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:46:27.076==ACTION_BATTERY_CHANGED:isCharge=2,lev=72,voltage=4073,temp=450
+2020-12-17 19:46:29.916==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:46:29.945==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:29.953==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:31.032==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:31.041==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:46:31.047==ihp.Upload:Battery Temp = 450,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:46:31.052==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:46:31.058==ihp.Upload:subFile.length=1
+2020-12-17 19:46:31.057==BleService:SCREEN_OFF=15147ms
+2020-12-17 19:46:31.074==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:31.076==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:46:31.083==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:46:31.093==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:46:31.100==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:46:32.314==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:46:32.322==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:46:32.331==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:32.372==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:32.376==BleService:SCREEN_ON
+2020-12-17 19:46:32.408==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:46:32.411==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:46:32.412==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:46:34.392==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:46:34.419==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:43.443==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=4073,temp=450
+2020-12-17 19:46:43.499==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3930,temp=450
+2020-12-17 19:46:45.427==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3936,temp=450
+2020-12-17 19:46:51.143==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:46:51.171==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:51.174==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:56.492==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:56.999==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:57.008==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:46:57.015==ihp.Upload:Battery Temp = 450,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:46:57.019==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:46:57.024==BleService:SCREEN_OFF=24648ms
+2020-12-17 19:46:57.024==ihp.Upload:subFile.length=1
+2020-12-17 19:46:57.039==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:46:57.043==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:57.045==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:46:57.055==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:46:57.061==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:46:57.191==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:57.196==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:46:57.206==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:57.265==BleService:SCREEN_ON
+2020-12-17 19:46:57.261==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:46:57.303==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:57.310==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:57.310==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:58.244==WIFI_STATE_CHANGED:isConnected,rssi=69,level=4
+2020-12-17 19:46:58.250==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:46:58.257==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:47:34.393==MainActivity:onCreate
+2020-12-17 19:47:34.408==MainActivity:IHP-A_SV106_201215,versionCode=509
+2020-12-17 19:47:34.428==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:47:34.435==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:47:34.442==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:47:34.505==AutoScanBlec.d.a.a@402b987:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 19:47:34.511==AutoScanBlec.d.a.a@402b987:start
+2020-12-17 19:47:34.517==AutoScanBlec.d.a.a@402b987:INTERVAL=20000,DURATION=1600
+2020-12-17 19:47:34.536==BleController:Connection history=
+2020-12-17 19:47:34.542==BleController:connectToSavedBeacon from BleService onCreate
+2020-12-17 19:47:34.546==BleController:bluetoothAdapter.isEnabled() == false
+2020-12-17 19:47:34.771==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3800,temp=460
+2020-12-17 19:47:37.178==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:47:37.185==ihp.Upload:Battery Temp = 460,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:47:37.189==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:47:37.197==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:47:37.204==ihp.Upload:subFile.length=1
+2020-12-17 19:47:37.217==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:47:37.221==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:47:37.223==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:47:37.233==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:47:37.243==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:47:55.645==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:47:55.662==BleService:SCREEN_ON
+2020-12-17 19:47:55.689==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:47:55.689==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:47:55.690==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:47:55.974==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:47:55.987==BleService:SCREEN_OFF=326ms
+2020-12-17 19:47:57.635==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:47:57.650==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:47:57.658==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:48:42.301==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:48:42.307==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:48:42.313==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:48:42.362==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:48:42.366==BleService:SCREEN_ON
+2020-12-17 19:48:42.402==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:48:42.407==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:48:42.407==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:48:44.391==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:48:44.422==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:48:45.624==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:48:45.701==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:48:45.703==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:48:45.712==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:48:45.779==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:48:45.795==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:45.808==wifiSettings:codebrick:6
+2020-12-17 19:48:45.821==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:48:45.829==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:45.835==wifiSettings:codebrick:6
+2020-12-17 19:48:46.051==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:48:46.110==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:48:46.116==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:46.121==wifiSettings:codebrick:6
+2020-12-17 19:48:46.284==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:46.295==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:46.296==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:48:46.282==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:48:46.312==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:46.309==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:48:46.353==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:48:46.357==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:46.367==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 19:48:46.934==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:46.939==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:48:46.947==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:46.946==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 19:48:49.441==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:48:49.507==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:49.508==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 19:48:49.513==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 19:48:49.544==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:48:49.554==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:49.563==wifiSettings:codebrick:6
+2020-12-17 19:48:49.578==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:48:49.583==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:49.588==wifiSettings:codebrick:6
+2020-12-17 19:48:49.626==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:49.626==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:48:49.627==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 19:48:49.687==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:48:49.699==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:49.704==wifiSettings:codebrick:6
+2020-12-17 19:48:49.728==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:48:49.728==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:49.730==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 19:48:49.741==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:GROUP_HANDSHAKE,supplicantError=123
+2020-12-17 19:48:49.747==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:48:49.748==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:49.758==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:48:49.761==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:49.764==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:48:49.765==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:49.774==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:48:49.779==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 19:48:49.787==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:48:49.793==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:49.798==wifiSettings:codebrick:6
+2020-12-17 19:48:49.812==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:48:49.818==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:49.824==wifiSettings:codebrick:6
+2020-12-17 19:48:49.837==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:48:49.842==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:49.848==wifiSettings:codebrick:6
+2020-12-17 19:48:50.090==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:50.094==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:48:50.125==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:50.156==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:48:50.157==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:50.163==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:48:50.175==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:48:50.245==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:48:50.258==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:50.264==wifiSettings:codebrick:6
+2020-12-17 19:48:50.298==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:48:50.303==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:48:50.306==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:48:50.317==ihp.Upload:Battery Temp = 460,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:48:50.317==wifiSettings:codebrick:6
+2020-12-17 19:48:50.321==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:48:50.327==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:48:50.335==ihp.Upload:subFile.length=1
+2020-12-17 19:48:50.362==WIFI_STATE_CHANGED:isConnected,rssi=62,level=4
+2020-12-17 19:48:50.365==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:48:50.367==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:48:50.370==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:48:50.373==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:48:50.381==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:48:50.380==ACTION_BATTERY_CHANGED:isCharge=0,lev=72,voltage=3801,temp=460
+2020-12-17 19:48:50.393==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:48:50.421==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3800,temp=460
+2020-12-17 19:48:50.394==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:48:50.425==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3800,temp=460
+2020-12-17 19:49:05.197==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:05.208==BleService:SCREEN_OFF=22842ms
+2020-12-17 19:49:10.622==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:49:10.639==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:10.639==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:29.543==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:49:29.549==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:49:29.554==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:29.590==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:29.596==BleService:SCREEN_ON
+2020-12-17 19:49:29.628==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:49:29.626==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:49:29.632==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:49:31.610==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:49:31.634==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:32.633==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:49:32.679==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:49:32.677==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:49:32.680==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:49:32.724==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:49:32.735==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:32.746==wifiSettings:Volla_2G:6
+2020-12-17 19:49:32.760==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:49:32.767==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:32.774==wifiSettings:Volla_2G:6
+2020-12-17 19:49:33.199==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:33.204==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:49:33.215==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:33.215==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:49:33.245==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:49:33.243==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:33.269==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:33.269==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:49:33.274==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 19:49:33.909==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:33.900==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 19:49:33.913==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:49:33.914==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:36.423==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:49:36.489==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 19:49:36.490==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:36.492==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 19:49:36.529==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:49:36.537==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:36.545==wifiSettings:Volla_2G:6
+2020-12-17 19:49:36.555==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:49:36.555==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 19:49:36.556==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:49:36.555==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:36.562==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:36.568==wifiSettings:Volla_2G:6
+2020-12-17 19:49:36.613==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:49:36.619==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:36.625==wifiSettings:Volla_2G:6
+2020-12-17 19:49:36.633==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:36.633==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:49:36.634==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 19:49:36.696==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:49:36.702==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:36.707==wifiSettings:Volla_2G:6
+2020-12-17 19:49:37.265==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:37.270==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:49:37.275==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:37.655==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:37.662==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:37.676==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:38.648==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:38.669==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:38.717==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:49:38.814==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:49:38.880==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:49:38.879==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:49:38.875==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:49:38.889==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:49:38.938==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:49:38.943==ihp.Upload:Battery Temp = 460,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:49:38.954==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:49:38.964==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:49:38.977==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:49:38.964==ihp.Upload:subFile.length=1
+2020-12-17 19:49:38.991==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:39.009==wifiSettings:Volla_Guest:6
+2020-12-17 19:49:39.018==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:49:39.023==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:49:39.023==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:39.030==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:49:39.033==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:49:39.042==wifiSettings:Volla_Guest:6
+2020-12-17 19:49:39.051==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:49:39.059==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:49:39.859==WIFI_STATE_CHANGED:isConnected,rssi=65,level=4
+2020-12-17 19:49:39.864==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:49:39.869==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:52.773==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:49:54.773==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:54.783==BleService:SCREEN_OFF=25187ms
+2020-12-17 19:49:59.285==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:49:59.315==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:49:59.317==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:07.709==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:50:07.715==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:50:07.721==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:07.762==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:07.770==BleService:SCREEN_ON
+2020-12-17 19:50:07.801==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:50:07.802==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:50:07.799==WIFI_STATE_CHANGED:isConnected,rssi=67,level=4
+2020-12-17 19:50:09.780==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:50:09.790==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:10.741==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:50:15.662==ACTION_BATTERY_CHANGED:isCharge=2,lev=71,voltage=3978,temp=470
+2020-12-17 19:50:15.669==ACTION_BATTERY_CHANGED:isCharge=2,lev=71,voltage=3978,temp=470
+2020-12-17 19:50:31.220==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3978,temp=470
+2020-12-17 19:50:31.252==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3846,temp=480
+2020-12-17 19:50:34.181==ACTION_BATTERY_CHANGED:isCharge=2,lev=71,voltage=3846,temp=480
+2020-12-17 19:50:34.216==ACTION_BATTERY_CHANGED:isCharge=2,lev=71,voltage=3961,temp=470
+2020-12-17 19:50:49.625==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:49.630==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:50:49.635==ihp.Upload:Battery Temp = 470,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:50:49.639==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:50:49.644==BleService:SCREEN_OFF=41877ms
+2020-12-17 19:50:49.644==ihp.Upload:subFile.length=1
+2020-12-17 19:50:49.662==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:49.664==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:50:49.669==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:50:49.679==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:50:49.685==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:50:51.997==WIFI_STATE_CHANGED:isConnected,rssi=58,level=4
+2020-12-17 19:50:52.004==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:50:52.014==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:52.068==BleService:SCREEN_ON
+2020-12-17 19:50:52.063==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:52.104==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:50:52.103==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:50:52.107==WIFI_STATE_CHANGED:isConnected,rssi=63,level=4
+2020-12-17 19:50:54.083==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:50:54.113==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:50:56.792==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3961,temp=470
+2020-12-17 19:50:56.840==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3902,temp=480
+2020-12-17 19:51:02.291==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:51:04.103==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+2020-12-17 19:51:09.711==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:51:09.747==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:09.748==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:14.111==WIFI_STATE_CHANGED:isConnected,rssi=72,level=4
+2020-12-17 19:51:14.116==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:51:14.122==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:16.545==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:51:16.586==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:51:16.588==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:51:16.584==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:51:16.623==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:51:16.633==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:16.643==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:16.653==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:51:16.661==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:16.667==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:17.053==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:17.057==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:17.063==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:17.062==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:17.101==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:17.097==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:17.113==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:51:17.132==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:17.158==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 19:51:17.677==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 19:51:17.683==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:17.693==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:51:17.702==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:20.241==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:51:20.322==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:20.324==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 19:51:20.328==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 19:51:20.362==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:20.373==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:20.381==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:20.389==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:20.395==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:20.400==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:20.418==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:20.419==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:20.422==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 19:51:20.479==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:51:20.486==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:20.492==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:20.516==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:20.517==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:20.519==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 19:51:20.580==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:51:20.585==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:20.590==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:21.086==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:21.091==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:51:21.096==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:21.583==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:21.595==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:21.608==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:21.619==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:22.417==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:51:22.463==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:51:22.465==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:51:22.464==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:22.514==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:22.524==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:22.534==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:22.544==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:22.553==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:22.560==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:22.986==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:22.988==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:23.005==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:23.007==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:23.015==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:23.018==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:23.020==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:51:23.025==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:23.478==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 19:51:23.479==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:23.493==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:51:23.494==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:26.213==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:51:26.275==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:26.278==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 19:51:26.279==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 19:51:26.303==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:26.313==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:26.322==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:26.331==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:26.331==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 19:51:26.331==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:26.336==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:26.343==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:26.349==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:26.395==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:51:26.400==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:26.405==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:26.414==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:26.415==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:26.418==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 19:51:26.451==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:GROUP_HANDSHAKE,supplicantError=123
+2020-12-17 19:51:26.458==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:26.467==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:26.466==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:26.465==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:26.476==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:26.478==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:51:26.484==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:26.490==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:26.498==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:51:26.500==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:51:26.507==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 19:51:26.513==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:26.521==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:26.527==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:26.570==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:51:26.575==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:26.580==wifiSettings:Volla_Guest:6
+2020-12-17 19:51:27.124==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:27.128==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:51:27.134==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:27.167==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:27.179==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:27.193==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:27.210==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:27.294==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:51:27.299==ihp.Upload:Battery Temp = 480,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:51:27.304==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:51:27.310==ihp.Upload:subFile.length=1
+2020-12-17 19:51:27.311==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:51:27.333==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:51:27.337==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:27.340==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:51:27.353==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:51:27.359==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:51:29.631==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:51:29.673==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:51:29.674==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:51:29.675==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:51:29.717==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:51:29.727==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:29.737==wifiSettings:Volla_2G:6
+2020-12-17 19:51:29.747==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:51:29.755==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:29.761==wifiSettings:Volla_2G:6
+2020-12-17 19:51:30.784==WIFI_STATE_CHANGED:isConnected,rssi=61,level=4
+2020-12-17 19:51:30.788==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:51:30.794==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:42.014==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:51:42.065==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:51:42.066==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:51:42.065==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:51:42.126==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:51:42.137==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:42.147==wifiSettings:codebrick:6
+2020-12-17 19:51:42.157==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:51:42.164==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:51:42.171==wifiSettings:codebrick:6
+2020-12-17 19:51:42.612==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:42.626==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:42.615==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:42.622==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:42.635==ihp.Upload:httpUpload Throwable=Connection to http://api.inhandplus.com refused
+2020-12-17 19:51:42.654==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:51:42.640==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:42.655==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:42.667==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:42.639==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:51:42.668==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:42.712==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 19:51:43.493==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:43.497==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:51:43.503==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:44.774==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:44.781==BleService:SCREEN_OFF=52713ms
+2020-12-17 19:51:45.000==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:45.005==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:51:45.012==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:45.046==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:51:45.070==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:45.071==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:45.074==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:45.088==BleService:SCREEN_ON
+2020-12-17 19:51:45.950==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:51:45.956==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:51:45.963==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:52:23.277==MainActivity:onCreate
+2020-12-17 19:52:23.296==MainActivity:IHP-A_SV106_201215,versionCode=509
+2020-12-17 19:52:23.316==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:52:23.324==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:52:23.331==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:52:23.390==AutoScanBlec.d.a.a@c20fe27:start=0700,end=2200,start2=0000,end2=0000,start3=0000,end3=0000
+2020-12-17 19:52:23.396==AutoScanBlec.d.a.a@c20fe27:start
+2020-12-17 19:52:23.402==AutoScanBlec.d.a.a@c20fe27:INTERVAL=20000,DURATION=1600
+2020-12-17 19:52:23.420==BleController:Connection history=
+2020-12-17 19:52:23.425==BleController:connectToSavedBeacon from BleService onCreate
+2020-12-17 19:52:23.429==BleController:bluetoothAdapter.isEnabled() == false
+2020-12-17 19:52:23.661==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3790,temp=490
+2020-12-17 19:52:44.264==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:52:44.298==BleService:SCREEN_ON
+2020-12-17 19:52:44.308==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:52:44.317==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:52:44.631==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:52:44.646==BleService:SCREEN_OFF=349ms
+2020-12-17 19:53:09.461==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3893,temp=490
+2020-12-17 19:57:53.362==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:53.367==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:57:53.374==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:57:53.418==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:57:53.422==BleService:SCREEN_ON
+2020-12-17 19:57:53.459==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:53.462==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:55.165==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:57:55.164==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:57:55.428==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:57:55.437==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:57:55.626==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 19:57:55.629==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:55.638==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:55.640==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:57:57.971==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:57:58.054==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 19:57:58.055==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.061==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 19:57:58.091==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:57:58.106==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.118==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.135==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 19:57:58.138==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:57:58.142==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.144==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:57:58.157==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.162==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.193==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:57:58.200==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.206==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.216==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:57:58.215==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.217==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 19:57:58.233==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:GROUP_HANDSHAKE,supplicantError=123
+2020-12-17 19:57:58.241==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:57:58.245==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.248==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:57:58.246==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.263==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:57:58.266==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.276==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:57:58.283==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.289==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.301==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:57:58.308==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.319==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.330==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:57:58.335==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 19:57:58.336==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.393==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:57:58.398==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.403==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.647==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.651==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:57:58.669==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.682==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.695==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:57:58.698==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:57:58.705==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:57:58.752==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:57:58.758==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.764==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.780==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:57:58.786==wifiSettings:Volla_Guest:6
+2020-12-17 19:57:58.792==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:57:58.795==wifiSettings:Volla_2G:6
+2020-12-17 19:57:58.799==ihp.Upload:Battery Temp = 490,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:57:58.803==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:57:58.811==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:57:58.812==ihp.Upload:subFile.length=1
+2020-12-17 19:57:58.871==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:57:58.877==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:57:58.893==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:57:58.912==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:57:58.920==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:57:58.982==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3791,temp=470
+2020-12-17 19:57:58.975==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3791,temp=470
+2020-12-17 19:57:59.024==ACTION_BATTERY_CHANGED:isCharge=0,lev=71,voltage=3830,temp=470
+2020-12-17 19:57:59.858==WIFI_STATE_CHANGED:isConnected,rssi=64,level=4
+2020-12-17 19:57:59.862==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:57:59.869==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:01.927==WIFI_STATE_CHANGED:isConnected,rssi=54,level=4
+2020-12-17 19:58:07.953==WIFI_STATE_CHANGED:isConnected,rssi=56,level=4
+2020-12-17 19:58:10.962==WIFI_STATE_CHANGED:isConnected,rssi=54,level=4
+2020-12-17 19:58:14.851==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:14.858==BleService:SCREEN_OFF=21436ms
+2020-12-17 19:58:15.708==WIFI_STATE_CHANGED:isConnected,rssi=54,level=4
+2020-12-17 19:58:15.718==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:58:15.726==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:16.066==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:16.071==BleService:SCREEN_ON
+2020-12-17 19:58:16.089==WIFI_STATE_CHANGED:isConnected,rssi=56,level=4
+2020-12-17 19:58:16.095==WIFI_STATE_CHANGED:isConnected,rssi=56,level=4
+2020-12-17 19:58:16.097==WIFI_STATE_CHANGED:isConnected,rssi=56,level=4
+2020-12-17 19:58:18.088==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:58:18.133==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:19.875==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:58:19.903==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:19.911==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:30.807==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:30.813==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:58:30.819==ihp.Upload:Battery Temp = 470,from=android.intent.action.SCREEN_OFF
+2020-12-17 19:58:30.823==ihp.Upload:startUpload, from=android.intent.action.SCREEN_OFF
+2020-12-17 19:58:30.828==ihp.Upload:subFile.length=1
+2020-12-17 19:58:30.827==BleService:SCREEN_OFF=14756ms
+2020-12-17 19:58:30.843==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:30.844==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:58:30.849==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:58:30.858==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:58:30.863==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:58:50.902==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:58:50.931==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:58:50.934==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:08.751==WIFI_STATE_CHANGED:isConnected,rssi=59,level=4
+2020-12-17 19:59:08.757==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:59:08.766==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:08.807==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:08.815==BleService:SCREEN_ON
+2020-12-17 19:59:08.842==WIFI_STATE_CHANGED:isConnected,rssi=59,level=4
+2020-12-17 19:59:08.847==WIFI_STATE_CHANGED:isConnected,rssi=59,level=4
+2020-12-17 19:59:08.849==WIFI_STATE_CHANGED:isConnected,rssi=59,level=4
+2020-12-17 19:59:10.845==BleController:receiver action=com.cwtcn.action_get_bat_ver
+2020-12-17 19:59:10.890==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:12.884==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:59:12.925==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:59:12.926==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:59:12.927==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:59:12.968==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:59:12.978==wifiSettings:Volla_2G:6
+2020-12-17 19:59:12.990==wifiSettings:Volla_Guest:6
+2020-12-17 19:59:13.001==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:59:13.010==wifiSettings:Volla_2G:6
+2020-12-17 19:59:13.017==wifiSettings:Volla_Guest:6
+2020-12-17 19:59:13.479==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:59:13.487==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:13.495==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:59:13.500==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:13.512==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:13.490==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:DISCONNECTED
+2020-12-17 19:59:13.521==wifiSettings:WIFI_STATE_CHANGED=1
+2020-12-17 19:59:13.522==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:13.591==BleService:CONNECTIVITY_ACTION hasNet=false
+2020-12-17 19:59:14.415==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:14.420==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:14.421==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:59:14.419==wifiSettings:WIFI_STATE_CHANGED=2
+2020-12-17 19:59:16.760==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:59:16.835==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:16.835==wifiSettings:NETWORK_STATE_CHANGED=<unknown ssid>:CONNECTING
+2020-12-17 19:59:16.837==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATING,supplicantError=123
+2020-12-17 19:59:16.858==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:59:16.869==wifiSettings:Volla_2G:6
+2020-12-17 19:59:16.877==wifiSettings:Volla_Guest:6
+2020-12-17 19:59:16.900==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:59:16.905==wifiSettings:Volla_2G:6
+2020-12-17 19:59:16.910==wifiSettings:Volla_Guest:6
+2020-12-17 19:59:16.926==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:59:16.928==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:16.928==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:ASSOCIATED,supplicantError=123
+2020-12-17 19:59:16.991==wifiSettings:InHandPlus Guest:2
+2020-12-17 19:59:16.996==wifiSettings:Volla_2G:6
+2020-12-17 19:59:17.002==wifiSettings:Volla_Guest:6
+2020-12-17 19:59:17.088==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:59:17.085==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:FOUR_WAY_HANDSHAKE,supplicantError=123
+2020-12-17 19:59:17.087==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.124==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:59:17.120==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:GROUP_HANDSHAKE,supplicantError=123
+2020-12-17 19:59:17.128==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.130==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:59:17.148==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.152==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.147==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTING
+2020-12-17 19:59:17.153==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:59:17.167==wifiSettings:updateAccessPoint1=InHandPlus Guest:4
+2020-12-17 19:59:17.196==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:59:17.203==wifiSettings:Volla_2G:6
+2020-12-17 19:59:17.209==wifiSettings:Volla_Guest:6
+2020-12-17 19:59:17.244==wifiSettings:InHandPlus Guest:4
+2020-12-17 19:59:17.249==wifiSettings:Volla_2G:6
+2020-12-17 19:59:17.255==wifiSettings:Volla_Guest:6
+2020-12-17 19:59:17.382==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.387==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:59:17.393==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:17.630==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.670==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.658==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.683==WIFI_STATE_CHANGED:NO CONNECTED
+2020-12-17 19:59:17.753==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:59:17.760==ihp.Upload:Battery Temp = 470,from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:59:17.764==ihp.Upload:startUpload, from=android.net.conn.CONNECTIVITY_CHANGE
+2020-12-17 19:59:17.769==ihp.Upload:subFile.length=1
+2020-12-17 19:59:17.770==BleService:CONNECTIVITY_ACTION hasNet=true
+2020-12-17 19:59:17.783==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:17.783==ihp.Upload:isRecordAfter,uploaddelay == 0,record_dura=20
+2020-12-17 19:59:17.788==ihp.Upload:FileName=201217_133245_DFFC5D18C098.mp4,FileSize=21334914
+2020-12-17 19:59:17.797==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:59:17.802==ihp.Upload:uploadUrl=http://api.inhandplus.com/smartwatchdata/
+2020-12-17 19:59:19.333==wifiSettings:SCAN_RESULTS_AVAILABLE
+2020-12-17 19:59:19.385==wifiSettings:NETWORK_STATE_CHANGED="InHandPlus Guest":CONNECTED
+2020-12-17 19:59:19.379==wifiSettings:WIFI_STATE_CHANGED=3
+2020-12-17 19:59:19.391==wifiSettings:SUPPLICANT_STATE_CHANGED=InHandPlus Guest:COMPLETED,supplicantError=123
+2020-12-17 19:59:19.427==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:59:19.437==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:59:19.448==wifiSettings:Volla_2G:6
+2020-12-17 19:59:19.465==wifiSettings:InHandPlus Guest:1
+2020-12-17 19:59:19.471==wifiSettings:inhandPlus2.4:6
+2020-12-17 19:59:19.477==wifiSettings:Volla_2G:6
+2020-12-17 19:59:21.543==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 19:59:21.547==BLE_ACTION_STATE_CHANGED:isEnabled=false
+2020-12-17 19:59:21.552==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:29.160==WIFI_STATE_CHANGED:isConnected,rssi=70,level=4
+2020-12-17 19:59:29.680==ACTION_BATTERY_CHANGED:isCharge=2,lev=71,voltage=3830,temp=470
+2020-12-17 19:59:29.707==ACTION_BATTERY_CHANGED:isCharge=2,lev=71,voltage=3967,temp=480
+2020-12-17 19:59:32.185==WIFI_STATE_CHANGED:isConnected,rssi=60,level=4
+2020-12-17 19:59:37.864==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-17 19:59:37.895==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:37.900==BEACON_STATE_CHANGED:isBeaconConnecten=0
+2020-12-17 19:59:40.016==guid:gsm.serial=20IHPA00202A
+2020-12-17 19:59:41.239==WIFI_STATE_CHANGED:isConnected,rssi=71,level=4
+
+file end
