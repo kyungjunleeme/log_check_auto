@@ -17,7 +17,10 @@ timed_out_list = []
 2020-12-17 14:32:05.189==RecorderService:Camera.opened
 2020-12-17 17:41:37.294==ihp.Upload:statusLine=HTTP/1.1 201 Created
 2020-12-17 14:33:45.494==ihp.Upload:httpUpload Throwable=Unable to resolve host "api.inhandplus.com": No address associated with hostname
+2020-12-17 18:24:03.367==ihp.Upload:httpUpload Throwable=Connection has been shut down
+
 2020-12-17 18:24:03.367==ihp.Upload:httpUpload Throwable=Connect to api.inhandplus.com:80 timed out
+2020-12-23 14:11:24.788==ihp.Upload:statusLine=HTTP/1.1 502 Bad Gateway
 
 '''
 for line in lines:
